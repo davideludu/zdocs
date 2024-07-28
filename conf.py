@@ -41,8 +41,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'6Zip'
-copyright = u'2024, Dash Core Group, Inc'
-author = u'strophy,thephez'
+copyright = u'2024, 6Zip Core Group, Inc | 2024, Dash Core Group, Inc'
+author = u'strophy,thephez,david'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -182,8 +182,8 @@ html_theme_options = {
 
 html_context = {
     # "github_url": "https://github.com", # or your GitHub Enterprise site
-    "github_user": "dashpay",
-    "github_repo": "docs",
+    "github_user": "davideludu",
+    "github_repo": "zdocs",
     "github_version": "20.1.0",
     "doc_path": "",
 }
