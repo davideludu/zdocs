@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Dash'
+project = u'6Zip'
 copyright = u'2024, Dash Core Group, Inc'
 author = u'strophy,thephez'
 
@@ -115,8 +115,8 @@ myst_enable_extensions = ["colon_fence"]
 
 # -- intersphinx configuration -----------------------------------------------
 intersphinx_mapping = {
-    "core": ("https://docs.dash.org/projects/core/en/stable/", None),
-    "platform": ("https://docs.dash.org/projects/platform/en/latest/", None),
+    "core": ("https://docs.6zip.online/projects/core/en/stable/", None),
+    "platform": ("https://docs.6zip.online/projects/platform/en/latest/", None),
 }
 
 # We recommend adding the following config value.
@@ -138,13 +138,13 @@ html_theme = "pydata_sphinx_theme"
 #
 html_theme_options = {
     "external_links": [
-        {"name": "Core docs", "url": "https://docs.dash.org/projects/core/en/stable/docs/index.html"},
-        {"name": "Platform docs", "url": "https://docs.dash.org/projects/platform/en/latest/docs/index.html"},
-        {"name": "Dash.org", "url": "https://www.dash.org"},
-        {"name": "Forum", "url": "https://www.dash.org/forum"},
+        {"name": "Core docs", "url": "https://docs.6zip.online/projects/core/en/stable/docs/index.html"},
+        {"name": "Platform docs", "url": "https://docs.6zip.online/projects/platform/en/latest/docs/index.html"},
+        {"name": "Dash.org", "url": "https://6zip.online"},
+        {"name": "Forum", "url": "https://6zip.online/forum"},
     ],
     "use_edit_page_button": True,
-    "github_url": "https://github.com/dashpay/docs",
+    "github_url": "https://github.com/davideludu/zdocs",
     "show_toc_level": 2,
     "show_nav_level": 1,
     "favicons": [
@@ -220,7 +220,7 @@ html_sidebars = {
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Dashdoc'
+htmlhelp_basename = 'Zipdoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -247,7 +247,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Dash.tex', u'Dash Documentation',
+    (master_doc, 'Zip.tex', u'Dash Documentation',
      u'strophy', 'manual'),
 ]
 
@@ -257,7 +257,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'dash', u'Dash Documentation',
+    (master_doc, 'zip', u'6Zip Documentation',
      [author], 1)
 ]
 
@@ -268,8 +268,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Dash', u'Dash Documentation',
-     author, 'Dash', 'A revolutionary digital money system, Dash is Digital Cash',
+    (master_doc, 'Zip', u'6Zip Documentation',
+     author, '6Zip', 'A revolutionary digital money system, 6Zip is Digital Cash',
      'Miscellaneous'),
 ]
 
