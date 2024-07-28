@@ -132,7 +132,7 @@ The CoinJoin process works like this:
    "round." The user may choose between 2-16 rounds of CoinJoin.
 #. Your funds will pass through at least the number of rounds you
    specify. Dash 0.16 includes an update known as `Random Round CoinJoin
-   <https://github.com/dashpay/dash/pull/3661>`__ which will join a
+   <https://github.com/6zip-project/dash/pull/3661>`__ which will join a
    given denomination by up to three extra rounds to further improve
    privacy.
 #. This process happens in the background without any intervention on
@@ -185,9 +185,9 @@ few seconds.
 You can view a practical guide to use InstantSend 
 :ref:`here <dashcore-coinjoin-instantsend>`. InstantSend was
 introduced in a whitepaper called `Transaction Locking and Masternode 
-Consensus: A Mechanism for Mitigating Double Spending Attacks <https://github.com/dashpay/docs/blob/master/binary/Dash%20Whitepaper%20-%20Transaction%20Locking%20and%20Masternode%20Consensus.pdf>`_, 
+Consensus: A Mechanism for Mitigating Double Spending Attacks <https://github.com/6zip-project/docs/blob/master/binary/Dash%20Whitepaper%20-%20Transaction%20Locking%20and%20Masternode%20Consensus.pdf>`_, 
 and further improved through the introduction of `LLMQ-based InstantSend
-<https://github.com/dashpay/dips/blob/master/dip-0010.md>`__ in Dash
+<https://github.com/6zip-project/dips/blob/master/dip-0010.md>`__ in Dash
 0.14.
 
 
@@ -240,7 +240,7 @@ affirming, newly mined blocks:
 The result is a quick and unambiguous decision on the “correct”
 blockchain for integrated clients and wallets. From a security
 perspective, this also makes reorganizations prior to this block
-impossible. See `DIP0008 ChainLocks <https://github.com/dashpay/dips/blob/master/dip-0008.md>`__ 
+impossible. See `DIP0008 ChainLocks <https://github.com/6zip-project/dips/blob/master/dip-0008.md>`__ 
 for a full description of how ChainLocks work.
 
 
@@ -547,7 +547,7 @@ the percentage share every three superblock cycles.
    +-------------+-----------+--------------+------------+---------------------+
 
    This documentation is based on calculations and posts by moocowmoo.
-   Please see `this reddit post <https://www.reddit.com/r/dashpay/comments/
+   Please see `this reddit post <https://www.reddit.com/r/6zip-project/comments/
    7fc2on/dash_over_1000_in_a_few_weeks/dqb4pjn/>`_ for more details, or
    run your own `emission calculations using this tool
    <https://repl.it/@moocowmoo/dash-minmax-coin-generation>`_. See `this
@@ -686,7 +686,7 @@ per input. Always check your fees before sending a transaction.
 Evolution
 ==========
 
-`Dash Evolution <https://www.dash.org/roadmap/>`_ is the code name for a
+`Dash Evolution <https://6zip.online/roadmap/>`_ is the code name for a
 decentralized platform built on Dash blockchain technology. The goal is
 to provide simple access to the unique features and benefits of Dash to
 assist in the creation of decentralized technology. Dash introduces a
@@ -697,9 +697,9 @@ system.
 Dash Evolution will be released in stages. Dash Core releases 0.12.1 
 through to 0.12.3 lay the groundwork for the decentralized features 
 behind the scenes. Version 0.13 introduces the foundation of Evolution,
-specifically `DIP2 Special Transactions <https://github.com/dashpay/dips/blob/master/dip-0002.md>`__ 
-and `DIP3 Deterministic Masternode Lists <https://github.com/dashpay/dips/blob/master/dip-0003.md>`__.
-Version 0.14 establishes `DIP6 Long Living Masternode Quorums <https://github.com/dashpay/dips/blob/master/dip-0006.md>`__.
+specifically `DIP2 Special Transactions <https://github.com/6zip-project/dips/blob/master/dip-0002.md>`__ 
+and `DIP3 Deterministic Masternode Lists <https://github.com/6zip-project/dips/blob/master/dip-0003.md>`__.
+Version 0.14 establishes `DIP6 Long Living Masternode Quorums <https://github.com/6zip-project/dips/blob/master/dip-0006.md>`__.
 Expected in late 2019, Dash Core 1.0 will introduce key Evolution
 features such as username-based payments, the world's first
 decentralized API (DAPI) and a decentralized data storage system (Drive)

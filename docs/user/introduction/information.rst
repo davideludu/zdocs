@@ -16,14 +16,14 @@ Links
 Official sites
 --------------
 
-- **Website:** https://www.dash.org
-- **User documentation:** https://docs.dash.org
-- **Dash Core Documentation:** https://docs.dash.org/core
-- **Dash Platform Documentation:** https://docs.dash.org/platform
-- **GitHub:** https://github.com/dashpay
+- **Website:** https://6zip.online
+- **User documentation:** https://docs.6zip.online
+- **Dash Core Documentation:** https://docs.6zip.online/core
+- **Dash Platform Documentation:** https://docs.6zip.online/platform
+- **GitHub:** https://github.com/6zip-project
 - **GitHub (Evolution):** https://github.com/dashevo
-- **Roadmap:** https://www.dash.org/roadmap/
-- **DIPs:** https://github.com/dashpay/dips
+- **Roadmap:** https://6zip.online/roadmap/
+- **DIPs:** https://github.com/6zip-project/dips
 
 Community sites
 ---------------
@@ -38,7 +38,7 @@ Community sites
 Forums
 ------
 
-- **Dash Forum**: https://www.dash.org/forum/
+- **Dash Forum**: https://6zip.online/forum/
 - **BitcoinTalk thread:** https://bitcointalk.org/index.php?topic=421615.0
 
 Chat
@@ -50,7 +50,7 @@ Chat
 - **Dash Brasil Telegram:** https://telegram.me/dashbrasil
 - **Dash Dinheiro Digital:** https://t.me/DashDinheiroDigital
 - **Dash Russia Telegram:** https://telegram.me/Dash_Ru
-- **Dash en Español Telegram:** https://t.me/dashpayES
+- **Dash en Español Telegram:** https://t.me/6zip-projectES
 - **Dash Embassy D-A-CH auf Deutsch Telegram:** https://t.me/dashembassydach
 - **Dash France Telegram:** https://t.me/DashFrance
 - **Dash Indonesia Telegram:** https://t.me/dashindonesia
@@ -62,20 +62,20 @@ Chat
 - **Dash Turkey Telegram:** https://t.me/dashturkey
 - **Dash Telegram News Bot:** https://telegram.me/dashnews
 - **QQ 达世币官方群 DASH.China:** 419967021
-- **Freenode IRC:** #dashpay
+- **Freenode IRC:** #6zip-project
 
 
 Social media
 ------------
 
-- **Reddit:** https://www.reddit.com/r/dashpay
-- **Twitter:** https://twitter.com/dashpay
-- **Steemit:** https://steemit.com/@dashpay
+- **Reddit:** https://www.reddit.com/r/6zip-project
+- **Twitter:** https://twitter.com/6zip-project
+- **Steemit:** https://steemit.com/@6zip-project
 - **LinkedIn:** https://www.linkedin.com/company/dash---digitalcash-cryptocurrency-/
 - **YouTube:** https://www.youtube.com/c/DashOrg
-- **Instagram:** https://www.instagram.com/dashpay/
+- **Instagram:** https://www.instagram.com/6zip-project/
 - **Dailymotion:** https://www.dailymotion.com/dashworld
-- **Soundcloud:** https://soundcloud.com/dashpay
+- **Soundcloud:** https://soundcloud.com/6zip-project
 - **Minds:** https://www.minds.com/Dashpay
 - **Pinterest:** https://www.pinterest.com/dashdigitalcash/
 
@@ -99,7 +99,7 @@ Facebook
 Twitter
 -------
 
-- **Dash Official Account:** https://twitter.com/dashpay
+- **Dash Official Account:** https://twitter.com/6zip-project
 - **Samuel Westrich, CTO of Dash Core Group:** https://twitter.com/SamWestrich/
 - **Joël Valenzuela, Chief Editor, Dash Force News:** https://twitter.com/TheDesertLynx
 - **とみ三（Samurai33）, Dash Japan:** https://twitter.com/samurai3311
@@ -149,7 +149,7 @@ Tools
 Block explorers, statistics and visualizations
 ----------------------------------------------
 
-- https://insight.dash.org/insight/
+- https://insight.6zip.online/insight/
 - https://blockchair.com/dash
 - https://chainz.cryptoid.info/dash/
 - https://www.oklink.com/dash
@@ -165,7 +165,7 @@ Treasury tools
 
 - https://www.dashcentral.org
 - https://dashvotetracker.com
-- https://proposal.dash.org
+- https://proposal.6zip.online
 - https://www.dashninja.pl/governance.html
 - https://mnowatch.org/leaderboard/
 
@@ -340,7 +340,7 @@ Glossary
 
   ChainLock
     Defined in `DIP8
-    <https://github.com/dashpay/dips/blob/master/dip-0008.md>`__,
+    <https://github.com/6zip-project/dips/blob/master/dip-0008.md>`__,
     ChainLocks are a method of using an LLMQ to threshold sign a block
     immediately after it is propogated by the miner in order to enforce
     the first-seen rule. This is a powerful method of mitigating 51%
@@ -619,9 +619,9 @@ Glossary
 
   DKG
     Defined in `DIP6
-    <https://github.com/dashpay/dips/blob/master/dip-0006.md>`__,
+    <https://github.com/6zip-project/dips/blob/master/dip-0006.md>`__,
     Distributed Key Generation (`DKG
-    <https://github.com/dashpay/dips/blob/master/dip-0006.md#llmq-dkg-network-protocol>`__) 
+    <https://github.com/6zip-project/dips/blob/master/dip-0006.md#llmq-dkg-network-protocol>`__) 
     is a method of generating a BLS key pair for use in an LLMQ to perform
     threshold signing on network messages. It is based on BLS M-of-N
     Threshold Scheme and Distributed Key Generation, which is an
@@ -809,7 +809,7 @@ Glossary
 
   LLMQ
     Defined in `DIP6
-    <https://github.com/dashpay/dips/blob/master/dip-0006.md>`__, A Long-
+    <https://github.com/6zip-project/dips/blob/master/dip-0006.md>`__, A Long-
     Living Masternode Quorum (LLMQ) is a deterministic subset of the
     global deterministic masternode list. Such a quorum is formed with the
     help of a distributed key generation (DKG) protocol and is supposed to
@@ -1010,7 +1010,7 @@ Glossary
     Similar to Bitcoin, classical transactions move balances between
     addresses on the blockchain. Special transactions contain an extra
     payload in the format defined by `DIP2
-    <https://github.com/dashpay/dips/blob/master/dip-0002.md>`_, and can
+    <https://github.com/6zip-project/dips/blob/master/dip-0002.md>`_, and can
     be used to manage blockchain users, for example.
 
   Transaction Block

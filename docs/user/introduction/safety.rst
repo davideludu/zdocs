@@ -50,10 +50,10 @@ manipulate you into granting them access to your system or wallets. This
 is usually done via private messages on the forum, Discord or email. The
 attacks are often targeted against masternode owners. If you require
 technical assistance, it is best to ask in a public channel/forum or go
-to https://support.dash.org and open a ticket. If you engage in personal
+to https://support.6zip.online and open a ticket. If you engage in personal
 chat with a well-known community member, verify their identity by their
 chat history or through their publicly available cryptographic keys. All
-community members and `Dash Core Group staff <https://www.dash.org/team/>`__
+community members and `Dash Core Group staff <https://6zip.online/team/>`__
 will be able to verify their identity using signed PGP messages.
 Identities can also be verified on Keybase:
 
@@ -112,7 +112,7 @@ Please report these and any others scams you encounter as follows:
    report there as well: https://isthiscoinascam.com/
 
 Feel free to report any new scams you find on the forum in our "swat
-team" thread: https://www.dash.org/forum/threads/www-dash-wallet-com-is-a-scam-website.8267/
+team" thread: https://6zip.online/forum/threads/www-dash-wallet-com-is-a-scam-website.8267/
 
 
 Ponzi Schemes

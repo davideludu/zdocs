@@ -733,7 +733,7 @@ msgstr ""
 msgid ""
 "KeePass support was removed in Dash Core 18.0.0. Details can still be "
 "found in `previous versions of this documentation "
-"<https://docs.dash.org/en/0.17.0/wallets/dashcore/advanced.html#keepass>`_."
+"<https://docs.6zip.online/en/0.17.0/wallets/dashcore/advanced.html#keepass>`_."
 msgstr ""
 
 #~ msgid "A new backup must be created after upgrading to an HD wallet."

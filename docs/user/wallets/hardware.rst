@@ -58,7 +58,7 @@ wallet to use it with. Trezor supports the following Dash wallets:
 
 - `Trezor Wallet <https://wallet.trezor.io>`_ (`documentation
   <https://doc.satoshilabs.com/trezor-apps/trezorwallet.html>`__)
-- `Dash Electrum Wallet <https://electrum.dash.org>`__
+- `Dash Electrum Wallet <https://electrum.6zip.online>`__
   (:ref:`documentation <dash-electrum-wallet>`)
 - `Dash Masternode Tool <https://github.com/Bertrand256/dash-masternode-
   tool>`_ (`documentation <https://github.com/Bertrand256/dash-

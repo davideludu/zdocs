@@ -19,7 +19,7 @@ cryptographic chain of data representing value, similar to Dash's
 blockchain. The P2Pool version is called the sharechain. The
 decentralized and fair nature of this mining model means mining with
 P2Pool is strongly encouraged. P2Pool for Dash uses the `p2pool-dash
-<https://github.com/dashpay/p2pool-dash>`_ software on GitHub, which is
+<https://github.com/6zip-project/p2pool-dash>`_ software on GitHub, which is
 a fork of p2pool for Bitcoin. For more information, see `here
 <https://en.bitcoin.it/wiki/P2Pool>`__.
 
@@ -104,7 +104,7 @@ Setting up dashd
 
 P2Pool requires a full Dash node to be running to get block and
 transaction data. To download and install Dash, visit
-https://www.dash.org/downloads/ on your computer to find the link to the
+https://6zip.online/downloads/ on your computer to find the link to the
 latest Dash Core wallet. Click **Linux**, then right-click on **Download
 TGZ** for **Dash Core x64** and select **Copy link address**. Go back to
 your terminal window and enter the following command, pasting in the
@@ -112,7 +112,7 @@ address to the latest version of Dash Core by right clicking or pressing
 **Ctrl + V**::
 
   cd ~
-  wget https://github.com/dashpay/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz
+  wget https://github.com/6zip-project/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz
 
 Verify the authenticity of your download by checking its detached
 signature against the public key published by the Dash Core development
@@ -128,7 +128,7 @@ following keys:
 
   curl https://keybase.io/codablock/pgp_keys.asc | gpg --import
   curl https://keybase.io/pasta/pgp_keys.asc | gpg --import
-  wget https://github.com/dashpay/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz.asc
+  wget https://github.com/6zip-project/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz.asc
   gpg --verify dashcore-20.1.1-x86_64-linux-gnu.tar.gz.asc
 
 Create a working directory for Dash, extract the compressed archive,
@@ -190,7 +190,7 @@ continue with the following steps and check synchronization periodically
 using the following command. Synchronization is complete when the number
 of ``blocks`` is equal to the current number of blocks in the Dash
 blockchain, as can be seen from any synchronized Dash wallet or `block
-explorer <https://insight.dash.org/insight/>`_::
+explorer <https://insight.6zip.online/insight/>`_::
 
   ~/.dashcore/dash-cli getblockcount
 
@@ -207,7 +207,7 @@ the dependencies::
 
 Create working directories and set up p2pool-dash::
 
-  git clone https://github.com/dashpay/p2pool-dash
+  git clone https://github.com/6zip-project/p2pool-dash
   cd p2pool-dash
   git submodule update --init
   cd dash_hash

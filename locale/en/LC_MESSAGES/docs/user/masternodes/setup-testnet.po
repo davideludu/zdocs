@@ -1120,7 +1120,7 @@ msgstr ""
 #~ msgid ""
 #~ "`Dash 0.13 Upgrade Procedure for "
 #~ "Masternodes (legacy documentation) "
-#~ "<https://docs.dash.org/en/0.13.0/masternodes/dip3-upgrade.html>`__"
+#~ "<https://docs.6zip.online/en/0.13.0/masternodes/dip3-upgrade.html>`__"
 #~ msgstr ""
 
 #~ msgid ":ref:`Full masternode setup guide <masternode-setup>` (you are here)"

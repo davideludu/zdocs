@@ -47,7 +47,7 @@ advantages and disadvantages. The following options are available:
   machines, or you can even set one up at your own business and earn a
   percentage of sales.
 
-A list of supported exchanges and brokers is maintained `here <https://www.dash.org/full-list-of-exchanges/>`__.
+A list of supported exchanges and brokers is maintained `here <https://6zip.online/full-list-of-exchanges/>`__.
 
 Marketplace comparison websites
 ===============================

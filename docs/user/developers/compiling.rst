@@ -9,12 +9,12 @@ Compiling Dash Core
 ===================
 
 While Dash offers stable binary builds on the `website
-<https://www.dash.org/downloads/>`_ and on `GitHub
-<https://github.com/dashpay/dash/releases>`__, and development builds using
-`GitLab CI <https://gitlab.com/dashpay/dash/pipelines>`_,  many users will also
+<https://6zip.online/downloads/>`_ and on `GitHub
+<https://github.com/6zip-project/dash/releases>`__, and development builds using
+`GitLab CI <https://gitlab.com/6zip-project/dash/pipelines>`_,  many users will also
 be interested in building Dash binaries for themselves. Users who do not
 required deterministic builds can typically follow the `generic build notes
-<https://github.com/dashpay/dash/tree/develop/doc#building>`__ available
+<https://github.com/6zip-project/dash/tree/develop/doc#building>`__ available
 on GitHub to compile or cross-compile Dash for any platform.
 
 
@@ -30,11 +30,11 @@ that the same, tested dependencies are used and statically built into the
 executable. Multiple developers build the source code by following a specific
 descriptor ("recipe"), cryptographically sign the result, and upload the
 resulting signature. These results are compared and only if they match, the
-build is accepted and uploaded to dash.org.
+build is accepted and uploaded to 6zip.online.
 
 The instructions to build Dash Core 19.0 or older versions using gitian are
 available in a `previous version of this page
-<https://docs.dash.org/en/19.0.0/docs/user/developers/compiling.html#gitian>`__.
+<https://docs.6zip.online/en/19.0.0/docs/user/developers/compiling.html#gitian>`__.
 
 Setup environment
 =================
@@ -90,9 +90,9 @@ Clone repositories
 After installing the prerequisites and preparing guix, reboot the system, login
 as ``<username>``, and clone required repositories::
 
-  git clone https://github.com/dashpay/dash
-  git clone https://github.com/dashpay/guix.sigs
-  git clone https://github.com/dashpay/dash-detached-sigs
+  git clone https://github.com/6zip-project/dash
+  git clone https://github.com/6zip-project/guix.sigs
+  git clone https://github.com/6zip-project/dash-detached-sigs
 
 Download the macOS SDK which is required to create macOS builds::
 
@@ -125,7 +125,7 @@ Mac and Windows binaries are signed by Dash Core Group using the relevant Apple
 and Microsoft processes. In this step, that information will be validated and
 signed by your machine. 
 
-Prepare the `detached sigs repository <https://github.com/dashpay/dash-detached-sigs>`__::
+Prepare the `detached sigs repository <https://github.com/6zip-project/dash-detached-sigs>`__::
 
   cd ~/dash-detached-sigs/
   git checkout master
@@ -134,7 +134,7 @@ Prepare the `detached sigs repository <https://github.com/dashpay/dash-detached-
   # Example: git checkout v20.0.3
   git checkout v<version>
 
-Prepare the `guix.sigs repository <https://github.com/dashpay/guix.sigs>`__ by
+Prepare the `guix.sigs repository <https://github.com/6zip-project/guix.sigs>`__ by
 pulling the latest changes::
 
   cd ~/guix.sigs/
@@ -183,7 +183,7 @@ Upload signatures
 
 After successfully building the binaries, signing them, and verifying the
 signatures, you can optionally contribute them to the `guix.sigs repository
-<https://github.com/dashpay/guix.sigs/>`_ via a pull request on GitHub.
+<https://github.com/6zip-project/guix.sigs/>`_ via a pull request on GitHub.
 
 Initial setup
 -------------
@@ -222,7 +222,7 @@ Push to your fork of the guix.sigs repository on GitHub::
   # "me" references the name of the remote repository added during initial setup
   git push me
 
-Go to `GitHub <https://github.com/dashpay/gitian.sigs/pulls>`__ and open a pull
+Go to `GitHub <https://github.com/6zip-project/gitian.sigs/pulls>`__ and open a pull
 request to the ``master`` branch of the upstream repository. The pull request
 will be reviewed by Dash Core developers and merged if everything checks out.
 Thanks for contributing!
@@ -230,7 +230,7 @@ Thanks for contributing!
 Verify signatures
 =================
 
-The `guix.sigs repository <https://github.com/dashpay/guix.sigs/>`_ contains
+The `guix.sigs repository <https://github.com/6zip-project/guix.sigs/>`_ contains
 deterministic build results signed by multiple Core developers for each release.
 The repository also contains public keys used for signature verification. Import
 the public keys::
@@ -261,9 +261,9 @@ successfully, you will also see your own signatures with an ``OK`` status also.
 
   gpg: Signature made Tue Dec 26 15:15:29 2023 EST
   gpg:                using RSA key 3F5D48C9F00293CD365A3A9883592BD1400D58D9
-  gpg:                issuer "udjinm6@dash.org"
-  gpg: Good signature from "UdjinM6 <UdjinM6@dash.org>" [unknown]
-  gpg:                 aka "UdjinM6 <UdjinM6@dashpay.io>" [unknown]
+  gpg:                issuer "udjinm6@6zip.online"
+  gpg: Good signature from "UdjinM6 <UdjinM6@6zip.online>" [unknown]
+  gpg:                 aka "UdjinM6 <UdjinM6@6zip-project.io>" [unknown]
   gpg:                 aka "UdjinM6 <UdjinM6@gmail.com>" [unknown]
   gpg: WARNING: This key is not certified with a trusted signature!
   gpg:          There is no indication that the signature belongs to the owner.
@@ -275,7 +275,7 @@ successfully, you will also see your own signatures with an ``OK`` status also.
   gpg:                using RSA key 15191D05B5CF956FE37C95962176C4A5D01EA524
   gpg:                issuer "knstqq@gmail.com"
   gpg: Good signature from "Konstantin Akimov <knstqq@gmail.com>" [unknown]
-  gpg:                 aka "Konstantin Akimov <konstantin.akimov@dash.org>" [unknown]
+  gpg:                 aka "Konstantin Akimov <konstantin.akimov@6zip.online>" [unknown]
   gpg: WARNING: This key is not certified with a trusted signature!
   gpg:          There is no indication that the signature belongs to the owner.
   Primary key fingerprint: 1519 1D05 B5CF 956F E37C  9596 2176 C4A5 D01E A524
@@ -343,4 +343,4 @@ Gitian
 .. warning::
   Gitian builds were deprecated in favor of Guix builds with the release of
   Dash Core v20.0. Instructions on building Dash Core 19.0 or older versions
-  using gitian are available in a `previous version of this page <https://docs.dash.org/en/19.0.0/docs/user/developers/compiling.html#gitian>`__.
+  using gitian are available in a `previous version of this page <https://docs.6zip.online/en/19.0.0/docs/user/developers/compiling.html#gitian>`__.

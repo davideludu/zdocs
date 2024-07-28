@@ -110,7 +110,7 @@ Masternode Concepts
 
 A list of available documentation appears below:
 
-- `DIP003 Deterministic Masternode Lists <https://github.com/dashpay/dips/blob/master/dip-0003.md>`__
+- `DIP003 Deterministic Masternode Lists <https://github.com/6zip-project/dips/blob/master/dip-0003.md>`__
 - :ref:`Full masternode setup guide <masternode-setup>`
 - :ref:`Information for users of hosted masternodes <hosted-setup>`
 - :ref:`Information for operators of hosted masternodes <operator-transactions>`
@@ -118,9 +118,9 @@ A list of available documentation appears below:
 Important concepts:
 
 - Masternodes are "registered" and begin offering services when a `ProRegTx
-  <https://github.com/dashpay/dips/blob/master/dip-0003.md#registering-a-masternode-proregtx>`_
+  <https://github.com/6zip-project/dips/blob/master/dip-0003.md#registering-a-masternode-proregtx>`_
   `special transaction
-  <https://github.com/dashpay/dips/blob/master/dip-0002.md>`_ containing a
+  <https://github.com/6zip-project/dips/blob/master/dip-0002.md>`_ containing a
   particular key is written to the blockchain.
 - The ProRegTx references the transaction id (txid) and index holding the
   collateral. The IP address and port of the masternode are also defined in this
@@ -149,7 +149,7 @@ Important concepts:
   percentage as payment to a separate masternode operator, if applicable.
 - The masternode configuration can later be updated using ProUpServTx,
   ProUpRegTx and ProUpRevTx transactions. See `Updating Masternode
-  Information <https://github.com/dashpay/dips/blob/master/dip-0003.md#updating-masternode-information>`_ 
+  Information <https://github.com/6zip-project/dips/blob/master/dip-0003.md#updating-masternode-information>`_ 
   in DIP003 and :ref:`update-dip3-config` in this documentation for more
   details.
 
@@ -219,7 +219,7 @@ Payment logic
 
 Since Dash version 0.13.0, masternode payments are entirely deterministic
 and based on a simple list sort algorithm. Dash version 0.13.0 implemented `DIP003
-<https://github.com/dashpay/dips/blob/master/dip-0003.md>`_ which defines
+<https://github.com/6zip-project/dips/blob/master/dip-0003.md>`_ which defines
 two sets of masternodes.
 
 1. The full set, which contains all registered masternodes that have not
@@ -268,7 +268,7 @@ to ensure it provides reliable service and registered in the list again
 using a :ref:`ProUpServTx <dip3-update-service>`. The current scoring
 rules as of Dash 0.14 are:
 
-- Failure to participate in `DKG <https://github.com/dashpay/dips/blob/master/dip-0006.md#llmq-dkg-network-protocol>`__\ = 66% punishment
+- Failure to participate in `DKG <https://github.com/6zip-project/dips/blob/master/dip-0006.md#llmq-dkg-network-protocol>`__\ = 66% punishment
 - Each subsequent block reduces PoSe score by 1
 
 Quorum selection
@@ -283,7 +283,7 @@ automatically attempt locks on most network transactions according to
 the requirements described :ref:`here <is-broadcast>`. Masternodes are
 now also responsible for more network consensus functions, such as
 :ref:`ChainLocks <chainlocks>`. Masternode quorums are formed through a
-process of `distributed key generation <https://github.com/dashpay/dips/blob/master/dip-0006.md>`__.  
+process of `distributed key generation <https://github.com/6zip-project/dips/blob/master/dip-0006.md>`__.  
 Failure to participate in DKG will eventually result in a PoSe ban as
 described above.
 
@@ -330,7 +330,7 @@ Dash Evolution
 
 The exact hardware requirements for Dash Evolution masternodes have yet
 to be determined, although some pointers can be taken from the `roadmap
-<https://www.dash.org/roadmap/>`_ and this `blog post
+<https://6zip.online/roadmap/>`_ and this `blog post
 <https://medium.com/@eduffield222/how-to-enabling-on-chain-scaling-2ffab5997f8b>`_.
 It should be possible to run Dash masternodes on normal VPS servers
 until the block size reaches approximately 20 MB, after which custom

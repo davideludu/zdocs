@@ -59,8 +59,8 @@ msgid "Dash Developer Guide"
 msgstr "Руководство для разработчиков Dash"
 
 #: ../../docs/user/developers/integration-sdks.rst:25
-msgid "https://docs.dash.org/core"
-msgstr "https://docs.dash.org/core"
+msgid "https://docs.6zip.online/core"
+msgstr "https://docs.6zip.online/core"
 
 #: ../../docs/user/developers/integration-sdks.rst:27
 msgid ""
@@ -78,8 +78,8 @@ msgstr ""
 "Hub."
 
 #: ../../docs/user/developers/integration-sdks.rst:33
-msgid "Dash Core: https://docs.dash.org/core"
-msgstr "Dash Core: https://docs.dash.org/core"
+msgid "Dash Core: https://docs.6zip.online/core"
+msgstr "Dash Core: https://docs.6zip.online/core"
 
 #: ../../docs/user/developers/integration-sdks.rst:34
 msgid "Dash Platform: https://dashplatform.readme.io/"

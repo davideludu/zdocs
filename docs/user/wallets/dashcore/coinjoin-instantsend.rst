@@ -245,7 +245,7 @@ high level of privacy. While it is not possible to link a CoinJoin
 transaction to a single source address with absolute certainty, using
 more inputs may make a transaction more vulnerable to different
 potential linking attacks. There are a number of `chain analysis
-companies <https://www.dash.org/regulatory#kyc>`__ that possess tools
+companies <https://6zip.online/regulatory#kyc>`__ that possess tools
 that can provide transaction risk scoring services for transactions on
 the Dash blockchain, including CoinJoin transactions.
 
@@ -266,7 +266,7 @@ Introduction
 
 This documentation describes how to use InstantSend to instantly send
 funds to any other Dash user around the world. Since the release of
-InstantSend based on Long Living Masternode Quorums (`LLMQ-IS <https://github.com/dashpay/dips/blob/master/dip-0010.md>`__)
+InstantSend based on Long Living Masternode Quorums (`LLMQ-IS <https://github.com/6zip-project/dips/blob/master/dip-0010.md>`__)
 in Dash 0.14, the Dash network itself will attempt to generate an
 InstantSend lock for almost every transaction processed by the network,
 according to :ref:`these rules <is-broadcast>`. Unlike the prior

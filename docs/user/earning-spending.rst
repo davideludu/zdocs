@@ -51,7 +51,7 @@ by Dash Force, and has been `featured on Dash Force News
 <https://dashnews.org/300-businesses-accept-dash-worldwide-come-blockcypher-grants/>`_.
 
 - `Discover Dash <https://discoverdash.com>`_
-- `Where to Spend Dash <https://www.dash.org/where-to-spend/>`_
+- `Where to Spend Dash <https://6zip.online/where-to-spend/>`_
 
 Debit Cards
 -----------

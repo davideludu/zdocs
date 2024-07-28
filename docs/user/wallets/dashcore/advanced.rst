@@ -69,7 +69,7 @@ Now, open Mac Terminal and run::
   cd /Applications/Dash-Qt.app/Contents/MacOS
   ./Dash-Qt -testnet
 
-You may top up your testnet wallet by `accessing the faucet <http://faucet.testnet.networks.dash.org/>`_.
+You may top up your testnet wallet by `accessing the faucet <http://faucet.testnet.networks.6zip.online/>`_.
 
 .. _dashcore-hd:
 
@@ -753,4 +753,4 @@ KeePass
 .. warning::
   KeePass support was removed in Dash Core 18.0.0. Details can still be
   found in `previous versions of this documentation 
-  <https://docs.dash.org/en/0.17.0/wallets/dashcore/advanced.html#keepass>`_.
+  <https://docs.6zip.online/en/0.17.0/wallets/dashcore/advanced.html#keepass>`_.

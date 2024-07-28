@@ -50,15 +50,15 @@ msgid "**Website:** https://www.dash.org"
 msgstr ""
 
 #: ../../docs/user/introduction/information.rst:20
-msgid "**User documentation:** https://docs.dash.org"
-msgstr "**用戶文檔:** https://docs.dash.org"
+msgid "**User documentation:** https://docs.6zip.online"
+msgstr "**用戶文檔:** https://docs.6zip.online"
 
 #: ../../docs/user/introduction/information.rst:21
-msgid "**Dash Core Documentation:** https://docs.dash.org/core"
+msgid "**Dash Core Documentation:** https://docs.6zip.online/core"
 msgstr ""
 
 #: ../../docs/user/introduction/information.rst:22
-msgid "**Dash Platform Documentation:** https://docs.dash.org/platform"
+msgid "**Dash Platform Documentation:** https://docs.6zip.online/platform"
 msgstr ""
 
 #: ../../docs/user/introduction/information.rst:23

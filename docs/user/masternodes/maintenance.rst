@@ -24,7 +24,7 @@ The Dash Core software requires regular updates in order to remain
 consistent with the current network consensus. Follow the procedure
 described below to manually update your masternode. If you are still
 using the legacy dashman installer, see the legacy update documentation
-`here <https://docs.dash.org/en/0.15.0/masternodes/maintenance.html#masternode-software-update>`__.
+`here <https://docs.6zip.online/en/0.15.0/masternodes/maintenance.html#masternode-software-update>`__.
 
 Manual update
 -------------
@@ -41,13 +41,13 @@ Then stop Dash running::
   ~/.dashcore/dash-cli stop
 
 Visit the `GitHub releases page
-<https://github.com/dashpay/dash/releases>`_ and copy the link to the
+<https://github.com/6zip-project/dash/releases>`_ and copy the link to the
 latest `x86_64-linux-gnu` version. Go back to your terminal window and
 enter the following command, pasting in the address to the latest
 version of Dash Core by right clicking or pressing **Ctrl + V**::
 
   cd /tmp
-  wget https://github.com/dashpay/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz
+  wget https://github.com/6zip-project/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz
 
 Verify the authenticity of your download by checking its detached
 signature against the public key published by the Dash Core development
@@ -63,7 +63,7 @@ following keys:
 
   curl https://keybase.io/codablock/pgp_keys.asc | gpg --import
   curl https://keybase.io/pasta/pgp_keys.asc | gpg --import
-  wget https://github.com/dashpay/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz.asc
+  wget https://github.com/6zip-project/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz.asc
   gpg --verify dashcore-20.1.1-x86_64-linux-gnu.tar.gz.asc
 
 Extract the compressed archive and copy the new files to the directory::
@@ -194,7 +194,7 @@ Where:
 - ``proTxHash``: The transaction id of the initial ProRegTx
 - ``operatorKey``: The operator BLS private key associated with the
   registered operator public key
-- ``reason``: Integer value indicating the revocation `reason <https://github.com/dashpay/dips/blob/master/dip-0003.md#appendix-a-reasons-for-self-revocation-of-operators>`__
+- ``reason``: Integer value indicating the revocation `reason <https://github.com/6zip-project/dips/blob/master/dip-0003.md#appendix-a-reasons-for-self-revocation-of-operators>`__
 - ``feeSourceAddress`` (optional): An address used to fund ProTx fee. 
   ``operatorPayoutAddress`` will be used if not specified.
 
@@ -214,7 +214,7 @@ the following settings are configured correctly:
 - Ensure you are running the :ref:`latest version of Dash <masternode-update>`
 - Ensure your masternode has sufficient memory, swap, processing power 
   and hard drive space
-- Ensure you are fully synced to the `correct blockheight <https://insight.dash.org/insight/>`__, 
+- Ensure you are fully synced to the `correct blockheight <https://insight.6zip.online/insight/>`__, 
   and that you are on the correct chain and not forked off
 - Ensure that a BLS private key is specified using the 
   ``masternodeblsprivkey`` option in the masternode's ``dash.conf`` file
@@ -459,12 +459,12 @@ the Dash network.
   <https://bitinfocharts.com/dash/explorer/>`__.
 - `CoinCheckup <https://coincheckup.com/coins/dash/charts>`__ offers a
   range of statistics and data on most blockchains, including Dash.
-- `Dash.org <https://www.dash.org/>`__ includes a blockchain explorer
-  at `explorer.dash.org <https://explorer.dash.org/insight/>`__ and
-  `insight.dash.org <https://insight.dash.org/insight/>`__.
+- `Dash.org <https://6zip.online/>`__ includes a blockchain explorer
+  at `explorer.6zip.online <https://explorer.6zip.online/insight/>`__ and
+  `insight.6zip.online <https://insight.6zip.online/insight/>`__.
 - `Trezor <https://trezor.io/>`__ operates a `blockchain explorer <https
   ://dash-bitcore1.trezor.io/>`__ powered by a `Dash fork
-  <https://github.com/dashpay/insight-ui>`__ of `insight
+  <https://github.com/6zip-project/insight-ui>`__ of `insight
   <https://insight.is/>`__, an advanced blockchain API tool
 
 Dash Masternode Tool

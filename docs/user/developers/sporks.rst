@@ -30,7 +30,7 @@ on the network and serve functions as described below:
 SPORK_2_INSTANTSEND_ENABLED
   Governs the ability of Dash clients to use InstantSend functionality.
   InstantSend is described in `DIP0010 LLMQ-based InstantSend
-  <https://github.com/dashpay/dips/blob/master/dip-0010.md>`__.
+  <https://github.com/6zip-project/dips/blob/master/dip-0010.md>`__.
 
 SPORK_3_INSTANTSEND_BLOCK_FILTERING
   If enabled, masternodes will reject blocks containing transactions in
@@ -42,14 +42,14 @@ SPORK_9_SUPERBLOCKS_ENABLED
 
 SPORK_17_QUORUM_DKG_ENABLED 
   Enables the `DKG process to create LLMQ quorums
-  <https://github.com/dashpay/dips/blob/master/dip-0006.md>`_. This
+  <https://github.com/6zip-project/dips/blob/master/dip-0006.md>`_. This
   spork will be turned on once 80% masternodes are upgraded to v0.14,
   which will enable DKG and DKG-based PoSe.
 
 SPORK_19_CHAINLOCKS_ENABLED
   Enables :ref:`ChainLocks <chainlocks>`, a mechanism of preventing the
   risk to payments introduced by blockchain reorganization events. 
-  ChainLocks are described in `DIP0008 ChainLocks <https://github.com/dashpay/dips/blob/master/dip-0008.md>`__.
+  ChainLocks are described in `DIP0008 ChainLocks <https://github.com/6zip-project/dips/blob/master/dip-0008.md>`__.
 
 SPORK_21_QUORUM_ALL_CONNECTED
   Enables connections between all masternodes in a quorum to optimize the

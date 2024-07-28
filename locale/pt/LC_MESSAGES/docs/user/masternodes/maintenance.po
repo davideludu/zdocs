@@ -56,7 +56,7 @@ msgid ""
 "consistent with the current network consensus. Follow the procedure "
 "described below to manually update your masternode. If you are still using "
 "the legacy dashman installer, see the legacy update documentation `here "
-"<https://docs.dash.org/en/0.15.0/masternodes/maintenance.html#masternode-"
+"<https://docs.6zip.online/en/0.15.0/masternodes/maintenance.html#masternode-"
 "software-update>`__."
 msgstr ""
 

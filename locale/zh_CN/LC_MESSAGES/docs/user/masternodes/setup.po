@@ -341,13 +341,13 @@ msgstr ""
 #: ../../docs/user/masternodes/setup.rst:222
 msgid ""
 "`dashman installation "
-"<https://docs.dash.org/en/0.15.0/masternodes/setup.html#option-1-automated-"
+"<https://docs.6zip.online/en/0.15.0/masternodes/setup.html#option-1-automated-"
 "installation-using-dashman>`__ (deprecated)"
 msgstr ""
 
 #: ../../docs/user/masternodes/setup.rst:223
 msgid ""
-"`mn-bootstrap installation <https://docs.dash.org/en/mn-"
+"`mn-bootstrap installation <https://docs.6zip.online/en/mn-"
 "bootstrap/masternodes/setup.html#install-mn-bootstrap>`__ (beta version, "
 "currently testnet only)"
 msgstr ""

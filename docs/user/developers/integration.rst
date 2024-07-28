@@ -8,9 +8,9 @@
 Integration Overview
 ====================
 
-This documentation is also available as a `PDF <https://github.com/dashpay/docs/raw/master/binary/integration/Dash_IntegrationOverview.pdf>`__.
+This documentation is also available as a `PDF <https://github.com/6zip-project/docs/raw/master/binary/integration/Dash_IntegrationOverview.pdf>`__.
 
-`Dash Core <https://github.com/dashpay/dash/releases>`__ is a fork of `Bitcoin
+`Dash Core <https://github.com/6zip-project/dash/releases>`__ is a fork of `Bitcoin
 Core <https://github.com/bitcoin/bitcoin>`__ and shares many common
 functionalities. Key differences are found in existing JSON-RPC commands which
 have been customized to support unique functionalities such as InstantSend.
@@ -32,8 +32,8 @@ block confirmations. Therefore, :ref:`implementing InstantSend
 integrations.
 
 - Block time: ~2.6 minutes per block
-- Github source: https://github.com/dashpay/dash
-- Latest release: https://github.com/dashpay/dash/releases/latest
+- Github source: https://github.com/6zip-project/dash
+- Latest release: https://github.com/6zip-project/dash/releases/latest
 
 JSON-RPC Interface
 ------------------
@@ -58,7 +58,7 @@ Special Transactions
 --------------------
 
 Dash Core v0.13.0 introduced the concept of “Special Transactions” as specified
-in `DIP002 <https://github.com/dashpay/dips/blob/master/dip-0002.md>`__. Special
+in `DIP002 <https://github.com/6zip-project/dips/blob/master/dip-0002.md>`__. Special
 Transactions provide a more native way to implement additional features which do
 not fit into the original concept of transactions. Please see the :ref:`Special
 Transactions <integration-special-transactions>` section below for more
@@ -78,9 +78,9 @@ allows for most existing libraries to work in the Dash ecosystem.
 Special Transactions
 ====================
 
-This documentation is also available as a `PDF <https://github.com/dashpay/docs/raw/master/binary/integration/Integration-Resources-Transaction-Types.pdf>`__.
+This documentation is also available as a `PDF <https://github.com/6zip-project/docs/raw/master/binary/integration/Integration-Resources-Transaction-Types.pdf>`__.
 
-Dash 0.13.0 and higher implement `DIP002 Special Transactions <https://github.com/dashpay/dips/blob/master/dip-0002.md>`__, 
+Dash 0.13.0 and higher implement `DIP002 Special Transactions <https://github.com/6zip-project/dips/blob/master/dip-0002.md>`__, 
 which form a basis for new transaction types that provide on-chain
 metadata to assist various consensus mechanisms. The following special
 transaction types exist:
@@ -105,14 +105,14 @@ transaction types exist:
 
 Integration notes:
 
-1. `DIP002 Special Transactions <https://github.com/dashpay/dips/blob/master/dip-0002.md>`__ 
+1. `DIP002 Special Transactions <https://github.com/6zip-project/dips/blob/master/dip-0002.md>`__ 
    introduced a new Transaction Version and related “Payload” to the network.
 
-2. Integrated Systems must be able to `serialize and deserialize <https://github.com/dashpay/dips/blob/master/dip-0002.md#serialization-hashing-and-signing>`__ 
+2. Integrated Systems must be able to `serialize and deserialize <https://github.com/6zip-project/dips/blob/master/dip-0002.md#serialization-hashing-and-signing>`__ 
    these new Transaction Types to accurately encode and decode
    Raw Transaction data.
 
-3. From a `backwards compatibility <https://github.com/dashpay/dips/blob/master/dip-0002.md#compatibility>`__ 
+3. From a `backwards compatibility <https://github.com/6zip-project/dips/blob/master/dip-0002.md#compatibility>`__ 
    perspective, the 4 byte (32-bit) ``version`` field included in Classical
    Transactions was split into two fields: ``version`` and ``type``
    (each consisting of 2 bytes).
@@ -126,7 +126,7 @@ Integration notes:
    that this data is not part of the calculated hash and is provided for
    convenience.
 
-See the `transaction types integration documentation (PDF) <https://github.com/dashpay/docs/raw/master/binary/integration/Integration-Resources-Transaction-Types.pdf>`__
+See the `transaction types integration documentation (PDF) <https://github.com/6zip-project/docs/raw/master/binary/integration/Integration-Resources-Transaction-Types.pdf>`__
 for worked examples of each transaction type.
 
 
@@ -135,7 +135,7 @@ for worked examples of each transaction type.
 InstantSend
 ===========
 
-This documentation is also available as a `PDF <https://github.com/dashpay/docs/raw/master/binary/integration/Dash_v0.14_LLMQ_InstantSend.pdf>`__.
+This documentation is also available as a `PDF <https://github.com/6zip-project/docs/raw/master/binary/integration/Dash_v0.14_LLMQ_InstantSend.pdf>`__.
 
 InstantSend is a feature provided by the Dash network that allows for
 zero-confirmation transactions to be safely accepted and re-spent. The
@@ -149,7 +149,7 @@ InstantSend is enabled by the Masternode Network which comprises
 several thousand masternode servers. These nodes are differentiated
 from standard nodes by having proven ownership of 1,000 Dash, making the
 network `highly resistant to Sybil attacks <https://en.wikipedia.org/wiki/Sybil_attack>`__. 
-Masternodes form `Long-Living Masternode Quorums (LLMQs) <https://github.com/dashpay/dips/blob/master/dip-0006.md>`__, 
+Masternodes form `Long-Living Masternode Quorums (LLMQs) <https://github.com/6zip-project/dips/blob/master/dip-0006.md>`__, 
 which are responsible for providing near-instant certainty to the transaction
 participants that the transaction inputs cannot be re-spent, and that the
 transaction will be included in a following block instead of a conflicting
@@ -206,7 +206,7 @@ ZMQ Notification
 Whenever a transaction enters the mempool and whenever a transaction is locked
 in the mempool, ZMQ notifications can be broadcast by the node. Refer to `the
 list of possible ZMQ notifications
-<https://github.com/dashpay/dash/blob/master/doc/zmq.md#usage>`__ for more
+<https://github.com/6zip-project/dash/blob/master/doc/zmq.md#usage>`__ for more
 details.
 
 The following notifications are relevant for recognizing transactions
@@ -227,7 +227,7 @@ by adding the following line to the dash.conf file::
   instantsendnotify=/path/to/concurrent/safe/handler %s
 
 This is typically used with a wallet that has been populated with 
-`watch-only <https://docs.dash.org/projects/core/en/stable/docs/resources/glossary.html#watch-only-address>`__ 
+`watch-only <https://docs.6zip.online/projects/core/en/stable/docs/resources/glossary.html#watch-only-address>`__ 
 addresses.
 
 .. _is-broadcast:
@@ -251,7 +251,7 @@ circumstances is true:
   blocks
 - the previous transaction is confirmed through an older InstantSend 
   lock
-- the block containing the previous transaction is `ChainLocked <https://github.com/dashpay/dips/blob/master/dip-0008.md>`__
+- the block containing the previous transaction is `ChainLocked <https://github.com/6zip-project/dips/blob/master/dip-0008.md>`__
 
 When checking the previous transaction for an InstantSend lock, it is
 important to do this on mempool (non-mined) transactions. This
@@ -264,11 +264,11 @@ The following resources provide additional information about InstantSend
 and are intended to help provide a more complete understanding of the
 underlying technologies.
 
-- `InstantSend Technical Information <https://github.com/dashpay/dash/blob/master/doc/instantsend.md#zmq>`__
+- `InstantSend Technical Information <https://github.com/6zip-project/dash/blob/master/doc/instantsend.md#zmq>`__
 - :ref:`InstantSend Developer Documentation <core:guide-features-instantsend>`
 - :ref:`Receiving ZMQ notifications <core:examples-receiving-zmq-notifications>`
-- `DIP0010: LLMQ InstantSend <https://github.com/dashpay/dips/blob/master/dip-0010.md>`__
-- `Product Brief: Dash Core v0.14 Release <https://blog.dash.org/product-brief-dash-core-release-v0-14-0-now-on-testnet-8f5f4ad45c96>`__
+- `DIP0010: LLMQ InstantSend <https://github.com/6zip-project/dips/blob/master/dip-0010.md>`__
+- `Product Brief: Dash Core v0.14 Release <https://blog.6zip.online/product-brief-dash-core-release-v0-14-0-now-on-testnet-8f5f4ad45c96>`__
 
 .. _integration-chainlocks:
 
@@ -330,7 +330,7 @@ As a result it is recommended that integrated clients use :ref:`ZMQ (ZeroMQ)
 notifications <core:examples-receiving-zmq-notifications>` in order to ensure
 that this information is received as promptly as possible. Refer to `the
 list of possible ZMQ notifications
-<https://github.com/dashpay/dash/blob/master/doc/zmq.md#usage>`__ for more
+<https://github.com/6zip-project/dash/blob/master/doc/zmq.md#usage>`__ for more
 details.
 
 The following notifications are relevant for recognizing blocks and their
@@ -343,7 +343,7 @@ corresponding ChainLocks:
 - zmqpubrawchainlocksig
 
 This sample code uses the `js-dashd-zmq library
-<https://github.com/dashpay/js-dashd-zmq>`__ to listen for ChainLock ZMQ
+<https://github.com/6zip-project/js-dashd-zmq>`__ to listen for ChainLock ZMQ
 notifications and return the hash of blocks that receive a ChainLock. 
 
 .. code-block:: javascript
@@ -383,5 +383,5 @@ technologies.
 
 - :ref:`ChainLock Developer Documentation <core:guide-features-chainlocks>`
 - :ref:`Receiving ZMQ notifications <core:examples-receiving-zmq-notifications>`
-- `DIP0008: ChainLocks <https://github.com/dashpay/dips/blob/master/dip-0008.md>`__
-- `Product Brief: Dash Core v0.14 Release <https://blog.dash.org/product-brief-dash-core-release-v0-14-0-now-on-testnet-8f5f4ad45c96>`__
+- `DIP0008: ChainLocks <https://github.com/6zip-project/dips/blob/master/dip-0008.md>`__
+- `Product Brief: Dash Core v0.14 Release <https://blog.6zip.online/product-brief-dash-core-release-v0-14-0-now-on-testnet-8f5f4ad45c96>`__

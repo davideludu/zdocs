@@ -99,7 +99,7 @@ Dash Docs
 https://www.transifex.com/dash/dash-docs/
 
 This project contains all content from the Dash Documentation hosted at
-https://docs.dash.org (probably the site you are reading now). Each
+https://docs.6zip.online (probably the site you are reading now). Each
 ``.html`` page in the documentation appears as a file in the resources
 section, named according to the navigation steps required to open the
 page. The Dash Documentation is written in a documentation language
@@ -140,10 +140,10 @@ Internal hyperlinks
   text inside the angle brackets.
 
 External hyperlinks
-  **Source:** ``The `official Dash website <https://www.dash.org>`_ also
+  **Source:** ``The `official Dash website <https://6zip.online>`_ also
   provides a list of major exchanges offering Dash.``
 
-  **Target:** ``El `sitio web oficial de Dash <https://www.dash.org>`_
+  **Target:** ``El `sitio web oficial de Dash <https://6zip.online>`_
   también proporciona una lista de las principales Casas de cambio o
   Exchanges que ofrecen Dash.``
 
@@ -172,7 +172,7 @@ an item in a diagram.
 Because these proprietary file formats are not easily handled by
 Transifex, the language content is exported to a text or Microsoft Excel
 file and uploaded to Transifex for processing. If you translate Dash
-Graphics, please send an email to leon.white@dash.org or @strophy on
+Graphics, please send an email to leon.white@6zip.online or @strophy on
 `Discord <http://dashchat.org>`_ when you are finished to request layout
 in the visual design.
 
@@ -211,7 +211,7 @@ Johnson's popular `Dash School <https://www.youtube.com/watch?v=e7UwwcCK
 j4Y&list=PLiFMZOlhgsYKKOUOVjQjESCXfR1cCYCod>`_ video series. Please
 translate with the videos open in YouTube to properly understand the
 context of the source text. Once your translation is complete, please
-send an email to leon.white@dash.org or @strophy on `Discord
+send an email to leon.white@6zip.online or @strophy on `Discord
 <http://dashchat.org>`_ to request inclusion of the subtitles on
 YouTube.
 
@@ -220,9 +220,9 @@ Dash Website
 
 https://www.transifex.com/dash/dash-website/
 
-The Dash website at https://www.dash.org is available for translation in
+The Dash website at https://6zip.online is available for translation in
 Transifex. Please have the website open while you translate to correctly
 understand the context of the source text. Once your translation is
-complete, please send an email to leon.white@dash.org or @strophy on
+complete, please send an email to leon.white@6zip.online or @strophy on
 `Discord <http://dashchat.org>`_ to request a build of your translation
 onto the website.

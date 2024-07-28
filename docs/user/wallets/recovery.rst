@@ -68,7 +68,7 @@ know to regain access to your Dash funds. If you already have Dash Core
 installed, first ensure it has been updated to the latest version by
 clicking **Help > About Dash Core**. Compare this with the latest
 available version of `Dash Core on the website
-<https://www.dash.org/downloads/>`_ as follows:
+<https://6zip.online/downloads/>`_ as follows:
 
 .. figure:: img/recovery-dashcore-version.png
    :width: 300px
@@ -139,8 +139,8 @@ restart and perform a full scan of the blockchain.
 At this stage, recovery is complete and you should make another backup
 using **File > Backup Wallet** or following the instructions :ref:`here
 <dashcore-backup>`. If you have any further problems, try asking on the
-`forum <https://www.dash.org/forum/topic/daemon-and-qt-wallet-support.64/>`_, 
-`Reddit <https://www.reddit.com/r/dashpay/>`_ or the #help-desk channel
+`forum <https://6zip.online/forum/topic/daemon-and-qt-wallet-support.64/>`_, 
+`Reddit <https://www.reddit.com/r/6zip-project/>`_ or the #help-desk channel
 at `Dash Discord <http://dashchat.org/>`_.
 
 .. _dash-android-file-restore:
@@ -344,7 +344,7 @@ Older versions of the Dash iOS wallet used **BIP32** addresses under the
 BIP44 addresses during normal use, but some residual balance may be
 under this derivation path, so restoring the **BIP32 Extended Private
 Key** may be helpful in some situations. Please see `this forum thread
-<https://www.dash.org/forum/threads/restore-breadwallet-dash-funds-to-your-electrum-dash-wallet-tested.8335/>`_ 
+<https://6zip.online/forum/threads/restore-breadwallet-dash-funds-to-your-electrum-dash-wallet-tested.8335/>`_ 
 for further discussion on this process.
 
 
@@ -381,7 +381,7 @@ your wallet.
 The private key must be in wallet import format (WIF). If your key is
 encrypted using BIP38 (key begins with 6P instead of 7), you must first
 decrypt it to view the key in WIF. To do so, go to
-https://paper.dash.org/ and click **Wallet Details**. Enter the
+https://paper.6zip.online/ and click **Wallet Details**. Enter the
 encrypted private key in the field and click **View Details**. You will
 be prompted for the password, and your keys will be decrypted. Find the
 key named **Private Key WIF** and import this into your wallet.

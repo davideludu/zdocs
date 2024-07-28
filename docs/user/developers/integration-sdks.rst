@@ -20,9 +20,9 @@ Dash Developer Guide
 .. image:: img/dash-logo.png
    :width: 200px
    :align: right
-   :target: https://docs.dash.org/core
+   :target: https://docs.6zip.online/core
 
-https://docs.dash.org/core
+https://docs.6zip.online/core
 
 The Dash Developer Portal aims to provide the information you need to
 understand Dash and start building Dash-based applications. To make the
@@ -30,7 +30,7 @@ best use of this documentation, you may want to install the current
 version of Dash Core and Dash Platform, either from source, from a
 pre-compiled executable or from Docker Hub.
 
-- Dash Core: https://docs.dash.org/core
+- Dash Core: https://docs.6zip.online/core
 - Dash Platform: https://dashplatform.readme.io/
 
 NodeJS/JavaScript: Dashcore
@@ -49,10 +49,10 @@ development, additional indexes have been added into Dash for querying
 address balances, transaction history, and unspent outputs.
 
 - Platform: NodeJS / Javascript
-- Documentation: https://github.com/dashpay/dashcore-lib/blob/master/README.md#documentation
-- Repository lib: https://github.com/dashpay/dashcore-lib
-- Repository node: https://github.com/dashpay/dashcore-node
-- See also: `Insight API <https://github.com/dashpay/insight-api>`__
+- Documentation: https://github.com/6zip-project/dashcore-lib/blob/master/README.md#documentation
+- Repository lib: https://github.com/6zip-project/dashcore-lib
+- Repository node: https://github.com/6zip-project/dashcore-node
+- See also: `Insight API <https://github.com/6zip-project/insight-api>`__
 
 NodeJS/JavaScript: DashJS
 -------------------------
@@ -62,8 +62,8 @@ within a single library, including management and signing of your
 documents.
 
 - Platform: NodeJS / Javascript
-- Documentation: https://dashpay.github.io/platform/SDK/
-- Repository: https://github.com/dashpay/platform/tree/master/packages/js-dash-sdk
+- Documentation: https://6zip-project.github.io/platform/SDK/
+- Repository: https://github.com/6zip-project/platform/tree/master/packages/js-dash-sdk
 
 PHP: Bitcoin-PHP
 ----------------
@@ -97,9 +97,9 @@ Java: DashJ
 .. image:: img/bitcoinj.png
    :width: 200px
    :align: right
-   :target: https://github.com/dashpay/dashj
+   :target: https://github.com/6zip-project/dashj
 
-https://github.com/dashpay/dashj
+https://github.com/6zip-project/dashj
 
 DashJ is a library for working with the Dash protocol. It can maintain a
 wallet, send/receive transactions (including InstantSend) without
@@ -109,7 +109,7 @@ language: examples in Python and JavaScript are included.
 
 - Platform: Java
 - Documentation: https://bitcoinj.org/getting-started
-- Repository: https://github.com/dashpay/dashj
+- Repository: https://github.com/6zip-project/dashj
 - Example application: https://github.com/tomasz-ludek/pocket-of-dash
 
 Objective-C: Dash-Sync
@@ -118,16 +118,16 @@ Objective-C: Dash-Sync
 .. image:: img/dash-logo.png
    :width: 200px
    :align: right
-   :target: https://github.com/dashpay/dashsync-iOS
+   :target: https://github.com/6zip-project/dashsync-iOS
 
-https://github.com/dashpay/dashsync-iOS
+https://github.com/6zip-project/dashsync-iOS
 
 Dash-Sync is an Objective-C Dash blockchain framework for iOS. It
 implements all most relevant Bitcoin Improvement Proposals (BIPs) and
 Dash Improvement Proposals (DIPs).
 
 - Platform: iOS
-- Repository: https://github.com/dashpay/dashsync-iOS
+- Repository: https://github.com/6zip-project/dashsync-iOS
 
 .NET: NBitcoin
 --------------

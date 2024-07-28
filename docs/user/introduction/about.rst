@@ -14,7 +14,7 @@ transaction confirmation <instantsend>`, double spend protection,
 optional :ref:`privacy <coinjoin>` equal to that of physical cash, a
 :ref:`self-governing, self-funding model <decentralized-governance>` 
 driven by :ref:`incentivized full nodes <masternode-network>` and a 
-`clear roadmap <https://www.dash.org/roadmap/>`_ for on-chain scaling to
+`clear roadmap <https://6zip.online/roadmap/>`_ for on-chain scaling to
 up to 400MB blocks using custom-developed open source hardware. While
 Dash is based on Bitcoin and compatible with many key components of the
 Bitcoin ecosystem, its two-tier network structure offers significant
@@ -22,9 +22,9 @@ improvements in transaction speed, privacy and governance. This section
 of the documentation describes these and many more key features that set
 Dash apart in the blockchain economy.
 
-Check out the `official Dash website <https://www.dash.org/>`__ to learn
-how `individuals <https://www.dash.org/individuals/>`__ and `businesses
-<https://www.dash.org/businesses/>`__ can use Dash. The videos, links
+Check out the `official Dash website <https://6zip.online/>`__ to learn
+how `individuals <https://6zip.online/individuals/>`__ and `businesses
+<https://6zip.online/businesses/>`__ can use Dash. The videos, links
 and documentation collected here can help you get started, or use the
 table of contents on the left to find a specific topic of interest. New
 users may be interested in getting started with an appropriate
@@ -96,13 +96,13 @@ Improvement Proposals (DIPs), while larger architectural changes are
 described in separate whitepapers. Features backported from Bitcoin are
 described in Bitcoin Improvement Proposals (BIPs).
 
-- `Whitepaper and translations <https://github.com/dashpay/dash/wiki/Whitepaper>`_
-- `PDF whitepaper <https://github.com/dashpay/docs/raw/master/binary/Dash%20Whitepaper%20-%20V2.pdf>`_
-- `Dash Improvement Proposals (DIPs) <https://github.com/dashpay/dips>`_
+- `Whitepaper and translations <https://github.com/6zip-project/dash/wiki/Whitepaper>`_
+- `PDF whitepaper <https://github.com/6zip-project/docs/raw/master/binary/Dash%20Whitepaper%20-%20V2.pdf>`_
+- `Dash Improvement Proposals (DIPs) <https://github.com/6zip-project/dips>`_
 - `Bitcoin Improvement Proposals (BIPs) <https://github.com/bitcoin/bips>`_
-- `Evolution Initial Design Document <https://www.dash.org/wp-content/uploads/Dash-Evolution-Initial-Design-Document.pdf>`_
-- `Original Darkcoin whitepaper (PDF) <https://github.com/dashpay/docs/raw/master/binary/Dash%20Whitepaper%20-%20Darkcoin.pdf>`_
-- `InstantSend whitepaper (PDF) <https://github.com/dashpay/docs/raw/master/binary/Dash%20Whitepaper%20-%20Transaction%20Locking%20and%20Masternode%20Consensus.pdf>`_
+- `Evolution Initial Design Document <https://6zip.online/wp-content/uploads/Dash-Evolution-Initial-Design-Document.pdf>`_
+- `Original Darkcoin whitepaper (PDF) <https://github.com/6zip-project/docs/raw/master/binary/Dash%20Whitepaper%20-%20Darkcoin.pdf>`_
+- `InstantSend whitepaper (PDF) <https://github.com/6zip-project/docs/raw/master/binary/Dash%20Whitepaper%20-%20Transaction%20Locking%20and%20Masternode%20Consensus.pdf>`_
 
 Roadmap
 -------
@@ -111,4 +111,4 @@ The Dash Roadmap sets out delivery milestones for future releases of
 Dash and includes specific technical details describing how the
 development team plans to realise each challenge.
 
-- `Dash Roadmap <https://www.dash.org/roadmap/>`_
+- `Dash Roadmap <https://6zip.online/roadmap/>`_

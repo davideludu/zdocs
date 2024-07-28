@@ -98,7 +98,7 @@ as password.
 
 If you would like to set up your own P2Pool, documentation of the
 process is available :ref:`here <p2pool>` and the code for p2pool-dash
-is available on `GitHub <https://github.com/dashpay/p2pool-dash>`_.
+is available on `GitHub <https://github.com/6zip-project/p2pool-dash>`_.
 Other mining pools are listed below and may be advantageous for
 different reasons such as ping latency, uptime, fee, users, etc. A guide
 to using a typical mining pool can be found :ref:`here <mining-pools>`.
@@ -124,7 +124,7 @@ Services listed here have not been evaluated or endorsed by the Dash
 developers and no guarantees are made as to the accuracy of this
 information. Please exercise discretion when using third-party services.
 If you’d like to be added to this list please reach out to
-leon.white@dash.org
+leon.white@6zip.online
 
 In addition to joining a pool, you will also need to create a Dash
 address to receive your payout. To do this in Dash Core wallet, see
@@ -156,7 +156,7 @@ mining sites such as these in order to keep up with the latest
 information and releases.
 
 - `Crypto Mining Blog <https://cryptomining-blog.com/>`_
-- `Dash Forum Mining Discussions <https://www.dash.org/forum/topic/mining.3/>`_
+- `Dash Forum Mining Discussions <https://6zip.online/forum/topic/mining.3/>`_
 - `Bitcoin Talk Altcoin Mining Discussions <https://bitcointalk.org/index.php?board=160.0>`_
 
 Mining software
@@ -290,7 +290,7 @@ mining sites such as these in order to keep up with the latest
 information and releases.
 
 - `Crypto Mining Blog <https://cryptomining-blog.com/>`_
-- `Dash Forum Mining Discussions <https://www.dash.org/forum/topic/mining.3/>`_
+- `Dash Forum Mining Discussions <https://6zip.online/forum/topic/mining.3/>`_
 - `Bitcoin Talk Altcoin Mining Discussions <https://bitcointalk.org/index.php?board=160.0>`_
 
 Mining software
@@ -419,7 +419,7 @@ quickly due to the rapidly changing market and difficulty of mining
 Dash. You are responsible for carrying out your own research and any
 listing on this page should not be considered an endorsement of any
 particular product. A good place to begin your research is the `mining
-section of the Dash Forums <https://www.dash.org/forum/topic/hardware-discussions-asic-gpu-cpu.101/>`_.
+section of the Dash Forums <https://6zip.online/forum/topic/hardware-discussions-asic-gpu-cpu.101/>`_.
 
 The following X11 ASIC miners are available on the market today, click
 the product name to visit the manufacturer's website:

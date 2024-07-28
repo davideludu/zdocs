@@ -391,10 +391,10 @@ msgstr ""
 #~ "product-brief-dash-core-"
 #~ "release-v0-16-0-d3debdb6242e"
 
-#~ msgid "Testnet tools: https://docs.dash.org/en/stable/developers/testnet.html"
+#~ msgid "Testnet tools: https://docs.6zip.online/en/stable/developers/testnet.html"
 #~ msgstr ""
 #~ "Инструменты для тестовой сети: "
-#~ "https://docs.dash.org/en/stable/developers/testnet.html"
+#~ "https://docs.6zip.online/en/stable/developers/testnet.html"
 
 #~ msgid "Issue tracking: https://github.com/dashpay/dash/issues/new"
 #~ msgstr "Отслеживание проблем: https://github.com/dashpay/dash/issues/new"

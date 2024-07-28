@@ -37,9 +37,9 @@ Insight
 .. image:: img/insight.png
    :width: 200px
    :align: right
-   :target: https://github.com/dashpay/insight-api
+   :target: https://github.com/6zip-project/insight-api
 
-https://github.com/dashpay/insight-api
+https://github.com/6zip-project/insight-api
 
 The open-source Insight REST API provides you with a convenient,
 powerful and simple way to read data from the Dash network and build
@@ -49,7 +49,7 @@ Insight API and Insight UI block explorer is available :ref:`here
 
 - Features: Transaction Broadcast, WebSocket Notifications.
 - Pricing Model: Free / Open Source
-- Documentation: https://github.com/dashpay/insight-api
+- Documentation: https://github.com/6zip-project/insight-api
 
 
 BlockCypher

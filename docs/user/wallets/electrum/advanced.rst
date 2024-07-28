@@ -109,7 +109,7 @@ button.
   If combined with Electrum's :ref:`multisig features <electrum-multisig>` the
   masternode collateral can be stored in a multisig wallet for increased
   security flexibility. See `this page
-  <https://github.com/dashpay/docs/blob/master/wallets/electrum/dip3_p2sh_howto.md>`_
+  <https://github.com/6zip-project/docs/blob/master/wallets/electrum/dip3_p2sh_howto.md>`_
   for the Dash Electrum documentation demonstrating how to configure a
   masternode using a multisig collateral. 
   
@@ -164,7 +164,7 @@ continue.
 
    Select masternode owner, voting, and payout addresses
 
-A masternode requires a BLS "operator" key as described in `DIP3 <https://github.com/dashpay/dips/blob/master/dip-0003.md#registering-a-masternode-proregtx>`_. If you manage
+A masternode requires a BLS "operator" key as described in `DIP3 <https://github.com/6zip-project/dips/blob/master/dip-0003.md#registering-a-masternode-proregtx>`_. If you manage
 your own masternode, both Dash Electrum and your masternode must know the
 operator private key. Your masternode will use the private key to sign messages,
 and the Dash network will know that you authorized it to do so.

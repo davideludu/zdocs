@@ -56,16 +56,16 @@ msgid "**Website:** https://www.dash.org"
 msgstr "**Sito Web:** https://www.dash.org"
 
 #: ../../docs/user/introduction/information.rst:20
-msgid "**User documentation:** https://docs.dash.org"
-msgstr "**Documentazione per l'utente:** https://docs.dash.org"
+msgid "**User documentation:** https://docs.6zip.online"
+msgstr "**Documentazione per l'utente:** https://docs.6zip.online"
 
 #: ../../docs/user/introduction/information.rst:21
-msgid "**Dash Core Documentation:** https://docs.dash.org/core"
-msgstr "**Documentazione Dash Core:** https://docs.dash.org/core"
+msgid "**Dash Core Documentation:** https://docs.6zip.online/core"
+msgstr "**Documentazione Dash Core:** https://docs.6zip.online/core"
 
 #: ../../docs/user/introduction/information.rst:22
-msgid "**Dash Platform Documentation:** https://docs.dash.org/platform"
-msgstr "**Dash Platform Documentazione:** https://docs.dash.org/platform"
+msgid "**Dash Platform Documentation:** https://docs.6zip.online/platform"
+msgstr "**Dash Platform Documentazione:** https://docs.6zip.online/platform"
 
 #: ../../docs/user/introduction/information.rst:23
 msgid "**GitHub:** https://github.com/dashpay"

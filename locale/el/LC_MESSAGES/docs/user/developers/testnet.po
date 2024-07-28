@@ -365,7 +365,7 @@ msgstr ""
 #~ "release-v0-16-0-d3debdb6242e"
 #~ msgstr ""
 
-#~ msgid "Testnet tools: https://docs.dash.org/en/stable/developers/testnet.html"
+#~ msgid "Testnet tools: https://docs.6zip.online/en/stable/developers/testnet.html"
 #~ msgstr ""
 
 #~ msgid "Issue tracking: https://github.com/dashpay/dash/issues/new"

@@ -27,9 +27,9 @@ Run a pre-proposal discussion
   blockchain. A discussion period of around two weeks will help you find
   out if someone has proposed something similar in the past, and whether
   it succeeded or failed. There are `pre-proposal channels on the forum
-  <https://www.dash.org/forum/topic/pre-budget-proposal-
+  <https://6zip.online/forum/topic/pre-budget-proposal-
   discussions.93/>`__ and `Dash Discord <http://staydashy.com>`__,
-  and `Reddit <https://www.reddit.com/r/dashpay>`__ also attracts a lot
+  and `Reddit <https://www.reddit.com/r/6zip-project>`__ also attracts a lot
   of views - consider the discussion on these channels to be the
   research phase of your proposal. Later, you can post a link to the
   forum discussion when your proposal goes live to show you are
@@ -52,7 +52,7 @@ Run an enthusiastic campaign for your proposal
   succeeding! Uploading a video gives your proposal a human touch and a
   chance to convey your enthusiasm in a way that isn't always possible
   in text. Post your video to the `forum
-  <https://www.dash.org/forum/topic/pre-budget-proposal-
+  <https://6zip.online/forum/topic/pre-budget-proposal-
   discussions.93/>`_ and `DashCentral
   <https://www.dashcentral.org/budget>`_, become a regular on Discord
   or run a webinar to explain the proposal and answer questions. Put
@@ -67,7 +67,7 @@ Demonstrate your commitment to the network
   can be very helpful to show you have skin in the game by matching the
   contribution provided in Dash with funds from your own business or
   investors. Equity or exclusivity agreements can be reached with `Dash
-  Core Group, Inc. <bradley.zastrow@dash.org>`_, but must be clarified
+  Core Group, Inc. <bradley.zastrow@6zip.online>`_, but must be clarified
   in writing before the proposal is posted.
 
 Post your proposal early and make yourself available for questions

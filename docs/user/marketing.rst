@@ -12,7 +12,7 @@ This page includes downloads of various templates and designs intended
 for use as office stationary and presentations. For a visual overview of
 existing web and sticker designs, please see the following link.
 
-- `Dash Brand Guidelines <https://www.dash.org/brand-guidelines/>`_
+- `Dash Brand Guidelines <https://6zip.online/brand-guidelines/>`_
 
 Dash uses the following color scheme to promote a consistent visual
 identity.
@@ -48,25 +48,25 @@ following proposal sponsorship for the German `Dash Embassy D-A-CH
 This design can be translated into your language at `Transifex here
 <https://www.transifex.com/dash/dash-graphics/dash-brochurexlsx/>`__.
 For more information on translating Dash products on Transifex, see
-:ref:`here <translating-dash>`. Please contact leon.white@dash.org once
+:ref:`here <translating-dash>`. Please contact leon.white@6zip.online once
 translation is complete to request layout of the completed translation.
 
 +------------+----------------------------------------------------------------------------------------------------+
 | Language   | Download                                                                                           |
 +============+====================================================================================================+
-| English    | `PDF <https://github.com/dashpay/docs/raw/master/binary/brochures/DASH-Broschur_GB_RZ_2018.pdf>`__ |
+| English    | `PDF <https://github.com/6zip-project/docs/raw/master/binary/brochures/DASH-Broschur_GB_RZ_2018.pdf>`__ |
 +------------+----------------------------------------------------------------------------------------------------+
-| Dutch      | `PDF <https://github.com/dashpay/docs/raw/master/binary/brochures/DASH-Broschur_NL_RZ_2018.pdf>`__ |
+| Dutch      | `PDF <https://github.com/6zip-project/docs/raw/master/binary/brochures/DASH-Broschur_NL_RZ_2018.pdf>`__ |
 +------------+----------------------------------------------------------------------------------------------------+
-| French     | `PDF <https://github.com/dashpay/docs/raw/master/binary/brochures/DASH-Broschur_FR_RZ_2018.pdf>`__ |
+| French     | `PDF <https://github.com/6zip-project/docs/raw/master/binary/brochures/DASH-Broschur_FR_RZ_2018.pdf>`__ |
 +------------+----------------------------------------------------------------------------------------------------+
-| German     | `PDF <https://github.com/dashpay/docs/raw/master/binary/brochures/DASH-Broschur_RZ_2018.pdf>`__    |
+| German     | `PDF <https://github.com/6zip-project/docs/raw/master/binary/brochures/DASH-Broschur_RZ_2018.pdf>`__    |
 +------------+----------------------------------------------------------------------------------------------------+
-| Spanish    | `PDF <https://github.com/dashpay/docs/raw/master/binary/brochures/DASH-Broschur_ES_RZ_2018.pdf>`__ |
+| Spanish    | `PDF <https://github.com/6zip-project/docs/raw/master/binary/brochures/DASH-Broschur_ES_RZ_2018.pdf>`__ |
 +------------+----------------------------------------------------------------------------------------------------+
-| Thai       | `PDF <https://github.com/dashpay/docs/raw/master/binary/brochures/DASH-Broschur_TH_RZ_2018.pdf>`__ |
+| Thai       | `PDF <https://github.com/6zip-project/docs/raw/master/binary/brochures/DASH-Broschur_TH_RZ_2018.pdf>`__ |
 +------------+----------------------------------------------------------------------------------------------------+
-| Vietnamese | `PDF <https://github.com/dashpay/docs/raw/master/binary/brochures/DASH-Broschur_VI_RZ_2018.pdf>`__ |
+| Vietnamese | `PDF <https://github.com/6zip-project/docs/raw/master/binary/brochures/DASH-Broschur_VI_RZ_2018.pdf>`__ |
 +------------+----------------------------------------------------------------------------------------------------+
 
 
@@ -81,31 +81,31 @@ Embassy D-A-CH <https://www.dash-embassy.org/>`__.
 This design can be translated into your language at `Transifex here
 <https://www.transifex.com/dash/dash-graphics/dash-flyerxlsx/>`__.
 For more information on translating Dash products on Transifex, see
-:ref:`here <translating-dash>`. Please contact leon.white@dash.org once
+:ref:`here <translating-dash>`. Please contact leon.white@6zip.online once
 translation is complete to request layout of the completed translation.
 
 +-----------------------+-------------------------------------------------------------------------------------------------------+
 | Language              | Download                                                                                              |
 +=======================+=======================================================================================================+
-| English               | `PDF <https://github.com/dashpay/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_GB.pdf>`__     |
+| English               | `PDF <https://github.com/6zip-project/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_GB.pdf>`__     |
 +-----------------------+-------------------------------------------------------------------------------------------------------+
-| Arabic                | `PDF <https://github.com/dashpay/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_AR.pdf>`__     |
+| Arabic                | `PDF <https://github.com/6zip-project/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_AR.pdf>`__     |
 +-----------------------+-------------------------------------------------------------------------------------------------------+
-| Chinese (Traditional) | `PDF <https://github.com/dashpay/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_ZH_TW.pdf>`__  |
+| Chinese (Traditional) | `PDF <https://github.com/6zip-project/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_ZH_TW.pdf>`__  |
 +-----------------------+-------------------------------------------------------------------------------------------------------+
-| Dutch                 | `PDF <https://github.com/dashpay/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_NL.pdf>`__     |
+| Dutch                 | `PDF <https://github.com/6zip-project/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_NL.pdf>`__     |
 +-----------------------+-------------------------------------------------------------------------------------------------------+
-| French                | `PDF <https://github.com/dashpay/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_FR.pdf>`__     |
+| French                | `PDF <https://github.com/6zip-project/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_FR.pdf>`__     |
 +-----------------------+-------------------------------------------------------------------------------------------------------+
-| German                | `PDF <https://github.com/dashpay/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_DE.pdf>`__     |
+| German                | `PDF <https://github.com/6zip-project/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_DE.pdf>`__     |
 +-----------------------+-------------------------------------------------------------------------------------------------------+
-| Spanish               | `PDF <https://github.com/dashpay/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_ES.pdf>`__     |
+| Spanish               | `PDF <https://github.com/6zip-project/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_ES.pdf>`__     |
 +-----------------------+-------------------------------------------------------------------------------------------------------+
-| Thai                  | `PDF <https://github.com/dashpay/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_TH.pdf>`__     |
+| Thai                  | `PDF <https://github.com/6zip-project/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_TH.pdf>`__     |
 +-----------------------+-------------------------------------------------------------------------------------------------------+
-| Turkish               | `PDF <https://github.com/dashpay/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_TR.pdf>`__     |
+| Turkish               | `PDF <https://github.com/6zip-project/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_TR.pdf>`__     |
 +-----------------------+-------------------------------------------------------------------------------------------------------+
-| Vietnamese            | `PDF <https://github.com/dashpay/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_VI.pdf>`__     |
+| Vietnamese            | `PDF <https://github.com/6zip-project/docs/raw/master/binary/flyers/Flyer_DINlang_DASH_2018_VI.pdf>`__     |
 +-----------------------+-------------------------------------------------------------------------------------------------------+
 
 
@@ -119,38 +119,38 @@ available below.
 This design can be translated into your language at `Transifex here
 <https://www.transifex.com/dash/dash-graphics/dash-handout-v30txt/>`__.
 For more information on translating Dash products on Transifex, see
-:ref:`here <translating-dash>`. Please contact leon.white@dash.org once
+:ref:`here <translating-dash>`. Please contact leon.white@6zip.online once
 translation is complete to request layout of the completed translation.
 
 +------------+-------------------------------------------------------------------------------------------------+
 | Language   | Download                                                                                        |
 +============+=================================================================================================+
-| English    | `PDF <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-EN.pdf>`__   |
-|            | `DOCX <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-EN.docx>`__ |
+| English    | `PDF <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-EN.pdf>`__   |
+|            | `DOCX <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-EN.docx>`__ |
 +------------+-------------------------------------------------------------------------------------------------+
-| Arabic     | `PDF <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-AR.pdf>`__   |
-|            | `DOCX <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-AR.docx>`__ |
+| Arabic     | `PDF <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-AR.pdf>`__   |
+|            | `DOCX <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-AR.docx>`__ |
 +------------+-------------------------------------------------------------------------------------------------+
-| Czech      | `PDF <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-CS.pdf>`__   |
-|            | `DOCX <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-CS.docx>`__ |
+| Czech      | `PDF <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-CS.pdf>`__   |
+|            | `DOCX <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-CS.docx>`__ |
 +------------+-------------------------------------------------------------------------------------------------+
-| Dutch      | `PDF <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-NL.pdf>`__   |
-|            | `DOCX <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-NL.docx>`__ |
+| Dutch      | `PDF <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-NL.pdf>`__   |
+|            | `DOCX <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-NL.docx>`__ |
 +------------+-------------------------------------------------------------------------------------------------+
-| German     | `PDF <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-DE.pdf>`__   |
-|            | `DOCX <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-DE.docx>`__ |
+| German     | `PDF <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-DE.pdf>`__   |
+|            | `DOCX <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-DE.docx>`__ |
 +------------+-------------------------------------------------------------------------------------------------+
-| Russian    | `PDF <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-RU.pdf>`__   |
-|            | `DOCX <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-RU.docx>`__ |
+| Russian    | `PDF <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-RU.pdf>`__   |
+|            | `DOCX <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-RU.docx>`__ |
 +------------+-------------------------------------------------------------------------------------------------+
-| Slovak     | `PDF <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-SK.pdf>`__   |
-|            | `DOCX <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-SK.docx>`__ |
+| Slovak     | `PDF <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-SK.pdf>`__   |
+|            | `DOCX <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-SK.docx>`__ |
 +------------+-------------------------------------------------------------------------------------------------+
-| Thai       | `PDF <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-TH.pdf>`__   |
-|            | `DOCX <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-TH.docx>`__ |
+| Thai       | `PDF <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-TH.pdf>`__   |
+|            | `DOCX <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-TH.docx>`__ |
 +------------+-------------------------------------------------------------------------------------------------+
-| Vietnamese | `PDF <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-VI.pdf>`__   |
-|            | `DOCX <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v3.1-VI.docx>`__ |
+| Vietnamese | `PDF <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-VI.pdf>`__   |
+|            | `DOCX <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v3.1-VI.docx>`__ |
 +------------+-------------------------------------------------------------------------------------------------+
 
 Previous versions (English only):
@@ -158,11 +158,11 @@ Previous versions (English only):
 +----------+----------------------------------------------------------------------------------------------+
 | Version  | Download                                                                                     |
 +==========+==============================================================================================+
-| 2.0      | `PDF <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v2.0.pdf>`__   |
-|          | `DOCX <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v2.0.docx>`__ |
+| 2.0      | `PDF <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v2.0.pdf>`__   |
+|          | `DOCX <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v2.0.docx>`__ |
 +----------+----------------------------------------------------------------------------------------------+
-| 1.0      | `PDF <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v1.0.pdf>`__   |
-|          | `DOCX <https://github.com/dashpay/docs/raw/master/binary/handouts/Dash-Handout-v1.0.docx>`__ |
+| 1.0      | `PDF <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v1.0.pdf>`__   |
+|          | `DOCX <https://github.com/6zip-project/docs/raw/master/binary/handouts/Dash-Handout-v1.0.docx>`__ |
 +----------+----------------------------------------------------------------------------------------------+
 
 
@@ -180,56 +180,56 @@ This design can be translated into your language at `Transifex here
 <https://www.transifex.com/dash/dash-graphics/the-dash-
 differencexlsx/>`__. For more information on translating Dash products
 on Transifex, see :ref:`here <translating-dash>`. Please contact
-leon.white@dash.org once translation is complete to request layout of
+leon.white@6zip.online once translation is complete to request layout of
 the completed translation.
 
 +-----------------------+--------------------------------------------------------------------------------------------------------+
 | Language              | Download                                                                                               |
 +=======================+========================================================================================================+
-| English               | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-EN.pdf>`__    |
-|                       | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-EN.png>`__    |
+| English               | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-EN.pdf>`__    |
+|                       | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-EN.png>`__    |
 +-----------------------+--------------------------------------------------------------------------------------------------------+
-| Arabic                | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-AR.pdf>`__    |
-|                       | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-AR.png>`__    |
+| Arabic                | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-AR.pdf>`__    |
+|                       | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-AR.png>`__    |
 +-----------------------+--------------------------------------------------------------------------------------------------------+
-| Bulgarian             | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-BG.pdf>`__    |
-|                       | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-BG.png>`__    |
+| Bulgarian             | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-BG.pdf>`__    |
+|                       | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-BG.png>`__    |
 +-----------------------+--------------------------------------------------------------------------------------------------------+
-| Chinese (Simplified)  | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-ZH-CN.pdf>`__ |
-|                       | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-ZH-CN.png>`__ |
+| Chinese (Simplified)  | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-ZH-CN.pdf>`__ |
+|                       | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-ZH-CN.png>`__ |
 +-----------------------+--------------------------------------------------------------------------------------------------------+
-| Chinese (Traditional) | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-ZH-TW.pdf>`__ |
-|                       | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-ZH-TW.png>`__ |
+| Chinese (Traditional) | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-ZH-TW.pdf>`__ |
+|                       | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-ZH-TW.png>`__ |
 +-----------------------+--------------------------------------------------------------------------------------------------------+
-| Czech                 | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-CS.pdf>`__    |
-|                       | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-CS.png>`__    |
+| Czech                 | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-CS.pdf>`__    |
+|                       | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-CS.png>`__    |
 +-----------------------+--------------------------------------------------------------------------------------------------------+
-| French                | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-FR.pdf>`__    |
-|                       | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-FR.png>`__    |
+| French                | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-FR.pdf>`__    |
+|                       | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-FR.png>`__    |
 +-----------------------+--------------------------------------------------------------------------------------------------------+
-| German                | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-DE.pdf>`__    |
-|                       | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-DE.png>`__    |
+| German                | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-DE.pdf>`__    |
+|                       | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-DE.png>`__    |
 +-----------------------+--------------------------------------------------------------------------------------------------------+
-| Greek                 | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-EL.pdf>`__    |
-|                       | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-EL.png>`__    |
+| Greek                 | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-EL.pdf>`__    |
+|                       | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-EL.png>`__    |
 +-----------------------+--------------------------------------------------------------------------------------------------------+
-| Italian               | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-IT.pdf>`__    |
-|                       | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-IT.png>`__    |
+| Italian               | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-IT.pdf>`__    |
+|                       | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-IT.png>`__    |
 +-----------------------+--------------------------------------------------------------------------------------------------------+
-| Polish                | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-PL.pdf>`__    |
-|                       | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-PL.png>`__    |
+| Polish                | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-PL.pdf>`__    |
+|                       | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-PL.png>`__    |
 +-----------------------+--------------------------------------------------------------------------------------------------------+
-| Russian               | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-RU.pdf>`__    |
-|                       | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-RU.png>`__    |
+| Russian               | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-RU.pdf>`__    |
+|                       | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-RU.png>`__    |
 +-----------------------+--------------------------------------------------------------------------------------------------------+
-| Slovak                | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-SK.pdf>`__    |
-|                       | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-SK.png>`__    |
+| Slovak                | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-SK.pdf>`__    |
+|                       | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-SK.png>`__    |
 +-----------------------+--------------------------------------------------------------------------------------------------------+
-| Spanish               | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-ES.pdf>`__    |
-|                       | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-ES.png>`__    |
+| Spanish               | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-ES.pdf>`__    |
+|                       | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-ES.png>`__    |
 +-----------------------+--------------------------------------------------------------------------------------------------------+
-| Vietnamese            | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-VI.pdf>`__    |
-|                       | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/The-Dash-Difference-VI.png>`__    |
+| Vietnamese            | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-VI.pdf>`__    |
+|                       | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/The-Dash-Difference-VI.png>`__    |
 +-----------------------+--------------------------------------------------------------------------------------------------------+
 
 Ten Misconceptions About Dash
@@ -241,53 +241,53 @@ against Dash. Based on an original design by community member DashDude.
 This design can be translated into your language at `Transifex here
 <https://www.transifex.com/dash/dash-graphics/misconceptionsxlsx/>`__.
 For more information on translating Dash products on Transifex, see
-:ref:`here <translating-dash>`. Please contact leon.white@dash.org once
+:ref:`here <translating-dash>`. Please contact leon.white@6zip.online once
 translation is complete to request layout of the completed translation.
 
 +------------------------+---------------------------------------------------------------------------------------------------+
 | Language               | Download                                                                                          |
 +========================+===================================================================================================+
-| English                | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-EN.pdf>`__    |
-|                        | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-EN.png>`__    |
+| English                | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-EN.pdf>`__    |
+|                        | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-EN.png>`__    |
 +------------------------+---------------------------------------------------------------------------------------------------+
-| Arabic                 | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-AR.pdf>`__    |
-|                        | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-AR.png>`__    |
+| Arabic                 | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-AR.pdf>`__    |
+|                        | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-AR.png>`__    |
 +------------------------+---------------------------------------------------------------------------------------------------+
-| Bulgarian              | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-BG.pdf>`__    |
-|                        | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-BG.png>`__    |
+| Bulgarian              | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-BG.pdf>`__    |
+|                        | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-BG.png>`__    |
 +------------------------+---------------------------------------------------------------------------------------------------+
-| Chinese (Traditional)  | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-ZH-TW.pdf>`__ |
-|                        | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-ZH-TW.png>`__ |
+| Chinese (Traditional)  | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-ZH-TW.pdf>`__ |
+|                        | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-ZH-TW.png>`__ |
 +------------------------+---------------------------------------------------------------------------------------------------+
-| Czech                  | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-CS.pdf>`__    |
-|                        | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-CS.png>`__    |
+| Czech                  | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-CS.pdf>`__    |
+|                        | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-CS.png>`__    |
 +------------------------+---------------------------------------------------------------------------------------------------+
-| French                 | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-FR.pdf>`__    |
-|                        | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-FR.png>`__    |
+| French                 | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-FR.pdf>`__    |
+|                        | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-FR.png>`__    |
 +------------------------+---------------------------------------------------------------------------------------------------+
-| German                 | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-DE.pdf>`__    |
-|                        | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-DE.png>`__    |
+| German                 | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-DE.pdf>`__    |
+|                        | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-DE.png>`__    |
 +------------------------+---------------------------------------------------------------------------------------------------+
-| Greek                  | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-EL.pdf>`__    |
-|                        | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-EL.png>`__    |
+| Greek                  | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-EL.pdf>`__    |
+|                        | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-EL.png>`__    |
 +------------------------+---------------------------------------------------------------------------------------------------+
-| Polish                 | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-PL.pdf>`__    |
-|                        | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-PL.png>`__    |
+| Polish                 | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-PL.pdf>`__    |
+|                        | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-PL.png>`__    |
 +------------------------+---------------------------------------------------------------------------------------------------+
-| Russian                | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-RU.pdf>`__    |
-|                        | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-RU.png>`__    |
+| Russian                | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-RU.pdf>`__    |
+|                        | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-RU.png>`__    |
 +------------------------+---------------------------------------------------------------------------------------------------+
-| Slovak                 | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-SK.pdf>`__    |
-|                        | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-SK.png>`__    |
+| Slovak                 | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-SK.pdf>`__    |
+|                        | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-SK.png>`__    |
 +------------------------+---------------------------------------------------------------------------------------------------+
-| Spanish                | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-ES.pdf>`__    |
-|                        | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-ES.png>`__    |
+| Spanish                | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-ES.pdf>`__    |
+|                        | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-ES.png>`__    |
 +------------------------+---------------------------------------------------------------------------------------------------+
-| Thai                   | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-TH.pdf>`__    |
-|                        | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-TH.png>`__    |
+| Thai                   | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-TH.pdf>`__    |
+|                        | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-TH.png>`__    |
 +------------------------+---------------------------------------------------------------------------------------------------+
-| Vietnamese             | `PDF <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-VI.pdf>`__    |
-|                        | `PNG <https://github.com/dashpay/docs/raw/master/binary/infographics/Misconceptions-VI.png>`__    |
+| Vietnamese             | `PDF <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-VI.pdf>`__    |
+|                        | `PNG <https://github.com/6zip-project/docs/raw/master/binary/infographics/Misconceptions-VI.png>`__    |
 +------------------------+---------------------------------------------------------------------------------------------------+
 
 
@@ -308,11 +308,11 @@ German `Dash Embassy D-A-CH <https://www.dash-embassy.org/>`__.
 +------------------------+--------------------------------------------------------------------------------------------------------------+
 | Language               | Download                                                                                                     |
 +========================+==============================================================================================================+
-| English                | `PPTX <https://github.com/dashpay/docs/raw/master/binary/presentations/Dash_Meetup_Presentation_EN.pptx>`__  |
-|                        | `PDF <https://github.com/dashpay/docs/raw/master/binary/presentations/Dash_Meetup_Presentation_EN.pdf>`__    |
+| English                | `PPTX <https://github.com/6zip-project/docs/raw/master/binary/presentations/Dash_Meetup_Presentation_EN.pptx>`__  |
+|                        | `PDF <https://github.com/6zip-project/docs/raw/master/binary/presentations/Dash_Meetup_Presentation_EN.pdf>`__    |
 +------------------------+--------------------------------------------------------------------------------------------------------------+
-| German                 | `PPTX <https://github.com/dashpay/docs/raw/master/binary/presentations/Dash_Meetup_Presentation_DE.pptx>`__  |
-|                        | `PDF <https://github.com/dashpay/docs/raw/master/binary/presentations/Dash_Meetup_Presentation_DE.pdf>`__    |
+| German                 | `PPTX <https://github.com/6zip-project/docs/raw/master/binary/presentations/Dash_Meetup_Presentation_DE.pptx>`__  |
+|                        | `PDF <https://github.com/6zip-project/docs/raw/master/binary/presentations/Dash_Meetup_Presentation_DE.pdf>`__    |
 +------------------------+--------------------------------------------------------------------------------------------------------------+
 
 
@@ -324,7 +324,7 @@ Simple presentation
 
 A simple presentation about Dash, available in 5 languages, 3 aspect
 ratios and 2 formats. Simply click the links to download. Note that the
-`Noto Sans UI <https://github.com/dashpay/docs/raw/master/binary/fonts/N
+`Noto Sans UI <https://github.com/6zip-project/docs/raw/master/binary/fonts/N
 oto_Sans_UI.zip>`_ font must be installed if using the PowerPoint files.
 
 `Browse all files on Dropbox <https://www.dropbox.com/sh/12w9zz8mr0t7kkq/AABySN1LrmAPIO98gZxZKk7_a?dl=0>`__
@@ -364,13 +364,13 @@ sponsorship for the German `Dash Embassy D-A-CH
 +----------+---------------------------------------------------------------------------------------------+
 | Language | Download                                                                                    |
 +==========+=============================================================================================+
-| English  | `PPTX <https://github.com/dashpay/docs/raw/master/binary/presentations/Dash-101-EN.pptx>`__ |
+| English  | `PPTX <https://github.com/6zip-project/docs/raw/master/binary/presentations/Dash-101-EN.pptx>`__ |
 +----------+---------------------------------------------------------------------------------------------+
-| French   | `PPTX <https://github.com/dashpay/docs/raw/master/binary/presentations/Dash-101-FR.pptx>`__ |
+| French   | `PPTX <https://github.com/6zip-project/docs/raw/master/binary/presentations/Dash-101-FR.pptx>`__ |
 +----------+---------------------------------------------------------------------------------------------+
-| German   | `PPTX <https://github.com/dashpay/docs/raw/master/binary/presentations/Dash-101-DE.pptx>`__ |
+| German   | `PPTX <https://github.com/6zip-project/docs/raw/master/binary/presentations/Dash-101-DE.pptx>`__ |
 +----------+---------------------------------------------------------------------------------------------+
-| Spanish  | `PPTX <https://github.com/dashpay/docs/raw/master/binary/presentations/Dash-101-ES.pptx>`__ |
+| Spanish  | `PPTX <https://github.com/6zip-project/docs/raw/master/binary/presentations/Dash-101-ES.pptx>`__ |
 +----------+---------------------------------------------------------------------------------------------+
 
 
@@ -385,11 +385,11 @@ Official Dash document templates.
 +----------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
 | Name                                               | Download                                                                                                      |
 +====================================================+===============================================================================================================+
-| Word document with cover page and paragraph styles | `DOCX <https://github.com/dashpay/docs/raw/master/binary/templates/Dash-Word-Document.docx>`__                |
+| Word document with cover page and paragraph styles | `DOCX <https://github.com/6zip-project/docs/raw/master/binary/templates/Dash-Word-Document.docx>`__                |
 +----------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
-| Word template with blue watermark                  | `DOTX <https://github.com/dashpay/docs/raw/master/binary/templates/Dash-Word-Document-Watermark-Blue.dotx>`__ |
+| Word template with blue watermark                  | `DOTX <https://github.com/6zip-project/docs/raw/master/binary/templates/Dash-Word-Document-Watermark-Blue.dotx>`__ |
 +----------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
-| Word template with grey watermark                  | `DOTX <https://github.com/dashpay/docs/raw/master/binary/templates/Dash-Word-Document-Watermark-Grey.dotx>`__ |
+| Word template with grey watermark                  | `DOTX <https://github.com/6zip-project/docs/raw/master/binary/templates/Dash-Word-Document-Watermark-Grey.dotx>`__ |
 +----------------------------------------------------+---------------------------------------------------------------------------------------------------------------+
 
 Presentation templates
@@ -403,11 +403,11 @@ for instructions).
 +------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
 | Name                                                       | Download                                                                                                             |
 +============================================================+======================================================================================================================+
-| PowerPoint template with simple blue and white slides      | `POTX <https://github.com/dashpay/docs/raw/master/binary/templates/Dash-Presentation-Template-Empty.potx>`__         |
+| PowerPoint template with simple blue and white slides      | `POTX <https://github.com/6zip-project/docs/raw/master/binary/templates/Dash-Presentation-Template-Empty.potx>`__         |
 +------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
-| PowerPoint template with sample layouts, styles and shapes | `POTX <https://github.com/dashpay/docs/raw/master/binary/templates/Dash-Presentation-Template-Sample-Slides.potx>`__ |
+| PowerPoint template with sample layouts, styles and shapes | `POTX <https://github.com/6zip-project/docs/raw/master/binary/templates/Dash-Presentation-Template-Sample-Slides.potx>`__ |
 +------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
-| Presentation icons                                         | `PPTX <https://github.com/dashpay/docs/raw/master/binary/templates/Dash-Icons.pptx>`__                               |
+| Presentation icons                                         | `PPTX <https://github.com/6zip-project/docs/raw/master/binary/templates/Dash-Icons.pptx>`__                               |
 +------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+
 
 Cards
@@ -419,23 +419,23 @@ business cards, or to hand out to explain and promote Dash.
 +--------------+-------------------------------------------------------------------------------------------------------+
 | Name         | Download version                                                                                      |
 +==============+=======================================================================================================+
-| Handout Card | `English <https://github.com/dashpay/docs/raw/master/binary/cards/Handout-Card-EN.pdf>`_              |
+| Handout Card | `English <https://github.com/6zip-project/docs/raw/master/binary/cards/Handout-Card-EN.pdf>`_              |
 +              +-------------------------------------------------------------------------------------------------------+
-|              | `Arabic <https://github.com/dashpay/docs/raw/master/binary/cards/Handout-Card-AR.pdf>`_               |
+|              | `Arabic <https://github.com/6zip-project/docs/raw/master/binary/cards/Handout-Card-AR.pdf>`_               |
 +              +-------------------------------------------------------------------------------------------------------+
-|              | `Chinese (Simplified) <https://github.com/dashpay/docs/raw/master/binary/cards/Handout-Card-ZH.pdf>`_ |
+|              | `Chinese (Simplified) <https://github.com/6zip-project/docs/raw/master/binary/cards/Handout-Card-ZH.pdf>`_ |
 +              +-------------------------------------------------------------------------------------------------------+
-|              | `Czech <https://github.com/dashpay/docs/raw/master/binary/cards/Handout-Card-CS.pdf>`_                |
+|              | `Czech <https://github.com/6zip-project/docs/raw/master/binary/cards/Handout-Card-CS.pdf>`_                |
 +              +-------------------------------------------------------------------------------------------------------+
-|              | `French <https://github.com/dashpay/docs/raw/master/binary/cards/Handout-Card-FR.pdf>`_               |
+|              | `French <https://github.com/6zip-project/docs/raw/master/binary/cards/Handout-Card-FR.pdf>`_               |
 +              +-------------------------------------------------------------------------------------------------------+
-|              | `Polish <https://github.com/dashpay/docs/raw/master/binary/cards/Handout-Card-PL.pdf>`_               |
+|              | `Polish <https://github.com/6zip-project/docs/raw/master/binary/cards/Handout-Card-PL.pdf>`_               |
 +              +-------------------------------------------------------------------------------------------------------+
-|              | `Portuguese <https://github.com/dashpay/docs/raw/master/binary/cards/Handout-Card-PT.pdf>`_           |
+|              | `Portuguese <https://github.com/6zip-project/docs/raw/master/binary/cards/Handout-Card-PT.pdf>`_           |
 +              +-------------------------------------------------------------------------------------------------------+
-|              | `Russian <https://github.com/dashpay/docs/raw/master/binary/cards/Handout-Card-RU.pdf>`_              |
+|              | `Russian <https://github.com/6zip-project/docs/raw/master/binary/cards/Handout-Card-RU.pdf>`_              |
 +              +-------------------------------------------------------------------------------------------------------+
-|              | `Spanish <https://github.com/dashpay/docs/raw/master/binary/cards/Handout-Card-ES.pdf>`_              |
+|              | `Spanish <https://github.com/6zip-project/docs/raw/master/binary/cards/Handout-Card-ES.pdf>`_              |
 +--------------+-------------------------------------------------------------------------------------------------------+
 
 Fonts

@@ -5,26 +5,26 @@ $(document).ready(function() {
 	/* Set alternate links 
 	var langs = [ "de", "en", "es", "fr", "pt", "vi", "el", "ru", "ko", "ja", "zh-Hans", "zh-Hant", "ar", "x-default" ];
 	var pageURL = $(location).attr("href");
-	pageURL = pageURL.replace("https://docs.dash.org/" + DOCUMENTATION_OPTIONS['LANGUAGE'] , "");
+	pageURL = pageURL.replace("https://docs.6zip.online/" + DOCUMENTATION_OPTIONS['LANGUAGE'] , "");
 	$.each(langs, function(index, value) {
 		var link = document.createElement('link');
 		link.rel = "alternate";
 		link.hreflang = value;
 		if (value == "x-default") {
-			link.href = "https://docs.dash.org/en" + pageURL;
+			link.href = "https://docs.6zip.online/en" + pageURL;
 		} else if (value == "zh-Hans") {
-			link.href = "https://docs.dash.org/zh_CN" + pageURL;
+			link.href = "https://docs.6zip.online/zh_CN" + pageURL;
 		} else if (value == "zh-Hant") {
-			link.href = "https://docs.dash.org/zh_TW" + pageURL;
+			link.href = "https://docs.6zip.online/zh_TW" + pageURL;
 		} else {
-			link.href = "https://docs.dash.org/" + value + pageURL;
+			link.href = "https://docs.6zip.online/" + value + pageURL;
 		}
 		jQuery('head').append(link);
 	});*/
 });
 
 $(function(){
-	var siteURL = "https://docs.dash.org/";
+	var siteURL = "https://docs.6zip.online/";
 
 	// Function to convert language codes
 	function convertLangCode(lang) {

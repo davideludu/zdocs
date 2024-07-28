@@ -49,7 +49,7 @@ msgid "Dash Developer Guide"
 msgstr ""
 
 #: ../../docs/user/developers/integration-sdks.rst:25
-msgid "https://docs.dash.org/core"
+msgid "https://docs.6zip.online/core"
 msgstr ""
 
 #: ../../docs/user/developers/integration-sdks.rst:27
@@ -62,7 +62,7 @@ msgid ""
 msgstr ""
 
 #: ../../docs/user/developers/integration-sdks.rst:33
-msgid "Dash Core: https://docs.dash.org/core"
+msgid "Dash Core: https://docs.6zip.online/core"
 msgstr ""
 
 #: ../../docs/user/developers/integration-sdks.rst:34

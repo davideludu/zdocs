@@ -156,7 +156,7 @@ Contractors and proposals
 Contractors of the blockchain can be developers, outreach professionals,
 team leaders, attorneys or even people appointed to do specific tasks.
 Proposals generally begin life as simple `pre-proposal forum posts
-<https://www.dash.org/forum/topic/pre-budget-proposal-discussions.93/>`_
+<https://6zip.online/forum/topic/pre-budget-proposal-discussions.93/>`_
 on the Dash Forum, where feedback and suggestions are solicited from the
 general community. Once the proposal owner decides they have a
 reasonable chance of passing their proposal, it is created as a
@@ -219,7 +219,7 @@ are broadcast and the budget is allocated soon after in a superblock.
    Proposal details and voting buttons on Dash Central
 
 Once passed, proposals are able to report back to the network on the
-`Dash Forum <https://www.dash.org/forum/topic/approved-proposals-
+`Dash Forum <https://6zip.online/forum/topic/approved-proposals-
 updates-news.140/>`__ or via published public channels and social media.
 Since it is possible to create proposals that pay out over several
 months, it is also possible to revoke funding from a project by changing

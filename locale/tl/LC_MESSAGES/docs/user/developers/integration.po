@@ -474,7 +474,7 @@ msgstr ""
 msgid ""
 "This is typically used with a wallet that has been populated with `watch-"
 "only "
-"<https://docs.dash.org/projects/core/en/stable/docs/resources/glossary.html#watch-"
+"<https://docs.6zip.online/projects/core/en/stable/docs/resources/glossary.html#watch-"
 "only-address>`__ addresses."
 msgstr ""
 

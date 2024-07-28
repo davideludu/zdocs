@@ -75,16 +75,16 @@ Tools
 
 A Dash paper wallet can be generated in several ways.
 
-- Using the generator at https://paper.dash.org
+- Using the generator at https://paper.6zip.online
 - Using the generator at https://walletgenerator.net/?currency=Dash
 - Offline using the Dash Paper Wallet source code from GitHub at 
-  https://github.com/dashpay/paper.dash.org/releases/latest
+  https://github.com/6zip-project/paper.6zip.online/releases/latest
 - Offline using the same code which powers both sites, by viewing the
   `GitHub project <https://github.com/MichaelMure/WalletGenerator.net>`_
   or `downloading directly <https://github.com/MichaelMure/WalletGenerator.net/archive/master.zip>`_
 
 Since the source code for all three options is largely similar, this
-guide will use https://paper.dash.org as an example. The websites
+guide will use https://paper.6zip.online as an example. The websites
 listed here run entirely in your web browser without sending any of the
 data generated to an external server, but the most secure option is to
 download the wallet generator and run it on a computer with a freshly
@@ -97,14 +97,14 @@ useful!
 Address generation
 ==================
 
-Go to https://paper.dash.org in your web browser (or open index.html if
+Go to https://paper.6zip.online in your web browser (or open index.html if
 you downloaded the wallet generator). Select your language and choose
 Dash as the currency if necessary. The following screen will appear:
 
 .. figure:: img/paper-start.png
    :width: 400px
 
-   The Dash Paper Wallet Generator at paper.dash.org
+   The Dash Paper Wallet Generator at paper.6zip.online
 
 Some random data is required to ensure the generated address and key are
 unique. Move our mouse around and/or type random characters into the
@@ -177,7 +177,7 @@ small amounts first to learn how it works.
 .. figure:: img/paper-block.png
    :width: 400px
 
-   Viewing the balance of the paper wallet using the Dash Block Explorer at explorer.dash.org
+   Viewing the balance of the paper wallet using the Dash Block Explorer at explorer.6zip.online
 
 Spending from a paper wallet
 ============================

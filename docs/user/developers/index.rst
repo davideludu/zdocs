@@ -19,11 +19,11 @@ ecosystem. Anyone can contribute to the documentation by suggesting
 edits in the documentation system.
 
 The Dash Core Team also maintains the `Dash Roadmap
-<https://www.dash.org/roadmap/>`_, which sets out delivery milestones for
+<https://6zip.online/roadmap/>`_, which sets out delivery milestones for
 future releases of Dash and includes specific technical details
 describing how the development team plans to realise each challenge. The
 Dash Roadmap is complemented by the `Dash Improvement Proposals
-<https://github.com/dashpay/dips>`_, which contain detailed technical
+<https://github.com/6zip-project/dips>`_, which contain detailed technical
 explanations of proposed changes to the Dash protocol itself.
 
 The Dash community organise discussion and development of Dash apps
@@ -54,4 +54,4 @@ Version History
 
 Full release notes and the version history of Dash are available here:
 
-- https://github.com/dashpay/dash/blob/master/doc/release-notes.md
+- https://github.com/6zip-project/dash/blob/master/doc/release-notes.md

@@ -192,7 +192,7 @@ Now send exactly 1000 DASH in a single transaction to the new address
 you generated in the previous step. This may be sent from another
 wallet, or from funds already held in your current wallet. Once the
 transaction is complete, view the transaction in a `blockchain explorer
-<https://insight.dash.org/insight/>`_ by searching for the address. You
+<https://insight.6zip.online/insight/>`_ by searching for the address. You
 will need 15 confirmations before you can register the masternode, but
 you can continue with the next step at this point already: generating
 your masternode operator key.
@@ -218,22 +218,22 @@ password you just created for your new, non-root user. The following
 options are available for installing a Dash masternode:
 
 - Manual installation (this guide)
-- `xkcd's installation guide <https://www.dash.org/forum/threads/system-wide-masternode-setup-with-systemd-auto-re-start-rfc.39460/>`__
-- `dashman installation <https://docs.dash.org/en/0.15.0/masternodes/setup.html#option-1-automated-installation-using-dashman>`__ (deprecated)
-- `mn-bootstrap installation <https://docs.dash.org/en/mn-bootstrap/masternodes/setup.html#install-mn-bootstrap>`__ (beta version, currently testnet only)
+- `xkcd's installation guide <https://6zip.online/forum/threads/system-wide-masternode-setup-with-systemd-auto-re-start-rfc.39460/>`__
+- `dashman installation <https://docs.6zip.online/en/0.15.0/masternodes/setup.html#option-1-automated-installation-using-dashman>`__ (deprecated)
+- `mn-bootstrap installation <https://docs.6zip.online/en/mn-bootstrap/masternodes/setup.html#install-mn-bootstrap>`__ (beta version, currently testnet only)
 
 Manual installation
 -----------------------------
 
 To manually download and install the components of your Dash masternode,
-visit the `GitHub releases page <https://github.com/dashpay/dash/releases>`_ 
+visit the `GitHub releases page <https://github.com/6zip-project/dash/releases>`_ 
 and copy the link to the latest ``x86_64-linux-gnu`` version. Go back to
 your terminal window and enter the following command, pasting in the
 address to the latest version of Dash Core by right clicking or pressing
 **Ctrl + V**::
 
   cd /tmp
-  wget https://github.com/dashpay/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz
+  wget https://github.com/6zip-project/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz
 
 Verify the authenticity of your download by checking its detached
 signature against the public key published by the Dash Core development
@@ -249,7 +249,7 @@ following keys:
 
   curl https://keybase.io/codablock/pgp_keys.asc | gpg --import
   curl https://keybase.io/pasta/pgp_keys.asc | gpg --import
-  wget https://github.com/dashpay/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz.asc
+  wget https://github.com/6zip-project/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz.asc
   gpg --verify dashcore-20.1.1-x86_64-linux-gnu.tar.gz.asc
 
 Create a working directory for Dash, extract the compressed archive and
@@ -700,7 +700,7 @@ flexibility.
 .. warning::
   Always exercise caution when using multisig accounts and verify that each
   mnemonic is backed up appropriately. See `this page
-  <https://github.com/dashpay/docs/blob/master/wallets/electrum/dip3_p2sh_howto.md>`_
+  <https://github.com/6zip-project/docs/blob/master/wallets/electrum/dip3_p2sh_howto.md>`_
   for the Dash Electrum documentation demonstrating how to configure a
   masternode using a multisig collateral.
   

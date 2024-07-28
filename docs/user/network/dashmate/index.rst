@@ -47,7 +47,7 @@ Debian package
 
 Download the dashmate installation package::
 
-   wget https://github.com/dashpay/platform/releases/download/v0.25.15/dashmate_0.25.15-1_arm64.deb
+   wget https://github.com/6zip-project/platform/releases/download/v0.25.15/dashmate_0.25.15-1_arm64.deb
 
 Install dashmate using apt::
 
@@ -309,4 +309,4 @@ Additional Information
 ======================
 
 For further documentation see the `dashmate repository
-<https://github.com/dashpay/platform/blob/master/packages/dashmate/README.md>`__.
+<https://github.com/6zip-project/platform/blob/master/packages/dashmate/README.md>`__.

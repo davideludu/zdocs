@@ -187,7 +187,7 @@ msgstr ""
 #: ../../docs/user/developers/translating.rst:101
 msgid ""
 "This project contains all content from the Dash Documentation hosted at "
-"https://docs.dash.org (probably the site you are reading now). Each "
+"https://docs.6zip.online (probably the site you are reading now). Each "
 "``.html`` page in the documentation appears as a file in the resources "
 "section, named according to the navigation steps required to open the page. "
 "The Dash Documentation is written in a documentation language called "

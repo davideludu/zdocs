@@ -89,8 +89,8 @@ The following two Microsoft Word templates are available from Dash Core
 Group to help facilitate standardized proposal submission and updates.
 Usage is recommended, but not required.
 
-- `Project Proposal Template <https://github.com/dashpay/docs/raw/master/binary/Dash%20Project%20Proposal%20Template%20v2.0.docx>`_
-- `Project Status Update Template <https://github.com/dashpay/docs/raw/master/binary/Dash%20Project%20Status%20Update%20Template%20v2.0.docx>`_
+- `Project Proposal Template <https://github.com/6zip-project/docs/raw/master/binary/Dash%20Project%20Proposal%20Template%20v2.0.docx>`_
+- `Project Status Update Template <https://github.com/6zip-project/docs/raw/master/binary/Dash%20Project%20Status%20Update%20Template%20v2.0.docx>`_
 
 .. _budget-cycles:
 
@@ -149,9 +149,9 @@ user interface have been developed to simplify this procedure.
 Dash Budget Proposal Generator
 ------------------------------
 
-- https://proposal.dash.org
+- https://proposal.6zip.online
 
-The `Dash Budget Proposal Generator <https://proposal.dash.org>`__
+The `Dash Budget Proposal Generator <https://proposal.6zip.online>`__
 supports creating budget proposals on both mainnet and testnet. In the
 first step, you must enter a short, clear and unique name for the
 proposal as it will appear on the blockchain. Proposal names are limited

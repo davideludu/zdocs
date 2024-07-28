@@ -347,8 +347,8 @@ msgstr "对于主网的主节点，RPC用户名和密码只能包含字母数字
 #~ "release-v0-16-0-d3debdb6242e"
 #~ msgstr ""
 
-#~ msgid "Testnet tools: https://docs.dash.org/en/stable/developers/testnet.html"
-#~ msgstr "测试网络工具: https://docs.dash.org/en/stable/developers/testnet.html"
+#~ msgid "Testnet tools: https://docs.6zip.online/en/stable/developers/testnet.html"
+#~ msgstr "测试网络工具: https://docs.6zip.online/en/stable/developers/testnet.html"
 
 #~ msgid "Issue tracking: https://github.com/dashpay/dash/issues/new"
 #~ msgstr "问题追踪: https://github.com/dashpay/dash/issues/new"

@@ -187,7 +187,7 @@ Now send exactly 1000 DASH in a single transaction to the new address
 you generated in the previous step. This may be sent from another
 wallet, or from funds already held in your current wallet. Once the
 transaction is complete, view the transaction in a `blockchain explorer
-<https://testnet-insight.dash.org/insight/>`_ by searching for the
+<https://testnet-insight.6zip.online/insight/>`_ by searching for the
 address. You will need 15 confirmations before you can register the
 masternode, but you can continue with the next step at this point
 already: generating your masternode operator key.
@@ -223,7 +223,7 @@ features an interactive setup command and the ability to manage multiple
 node configs and multiple networks. It handles the installation of Dash
 Core and Tenderdash, as well as all dependencies and supporting
 services. Full dashmate documentation is available `here
-<https://github.com/dashpay/platform/tree/master/packages/dashmate#readme>`__.
+<https://github.com/6zip-project/platform/tree/master/packages/dashmate#readme>`__.
 
 .. warning::
     Installation as root user is not supported or recommended.
@@ -255,7 +255,7 @@ defaults. Start your node as follows::
 
 You can manage your masternode status, configuration, and running state
 entirely from within dashmate. See the documentation `here
-<https://github.com/dashpay/platform/blob/master/packages/dashmate/README.md>`__ or use the built-in help
+<https://github.com/6zip-project/platform/blob/master/packages/dashmate/README.md>`__ or use the built-in help
 system to learn more:
 
 - ``dashmate --help``
@@ -655,7 +655,7 @@ and communication relating to the base blockchain. Download Dash Core as
 follows::
 
   cd /tmp
-  wget https://github.com/dashpay/dash/releases/download/v20.1.1/dashcore-20.1.1-$(uname -m)-linux-gnu.tar.gz
+  wget https://github.com/6zip-project/dash/releases/download/v20.1.1/dashcore-20.1.1-$(uname -m)-linux-gnu.tar.gz
 
 Verify the authenticity of your download by checking its detached
 signature against the public key published by the Dash Core development
@@ -667,7 +667,7 @@ team. All releases of Dash are signed using GPG with the following key:
 ::
 
   curl https://keybase.io/pasta/pgp_keys.asc | gpg --import
-  wget https://github.com/dashpay/dash/releases/download/v20.1.1/dashcore-20.1.1-$(uname -m)-linux-gnu.tar.gz.asc
+  wget https://github.com/6zip-project/dash/releases/download/v20.1.1/dashcore-20.1.1-$(uname -m)-linux-gnu.tar.gz.asc
   gpg --verify dashcore-20.1.1-$(uname -m)-linux-gnu.tar.gz.asc
 
 Extract the compressed archive and copy the necessary files to the
@@ -802,7 +802,7 @@ Drive
 Drive is a replicated state machine for Dash Platform. Download Drive as
 follows::
 
-  git clone --depth 1 --branch master https://github.com/dashpay/platform/
+  git clone --depth 1 --branch master https://github.com/6zip-project/platform/
   cd platform
   corepack enable
   yarn install
@@ -845,7 +845,7 @@ used by Dash Platform. As binaries are not yet published, you will need
 to build from source. Build and install Tenderdash as follows::
 
   cd
-  git clone --depth 1 --branch v0.11.3 https://github.com/dashpay/tenderdash
+  git clone --depth 1 --branch v0.11.3 https://github.com/6zip-project/tenderdash
   cd tenderdash
   make install-bls
   make build-linux
@@ -1037,8 +1037,8 @@ shows how to install dependencies under Ubuntu 20.04 LTS.::
 Generate a new Dash address for temporary use using `this script
 <https://repl.it/@strophy/Generate-Dash-Address>`__ or the
 ``getnewaddress`` and ``dumpprivkey`` RPC commands in `Dash Core
-<https://www.dash.org/downloads>`__ in testnet mode. Go to
-https://testnet-faucet.dash.org/ and request 1000+ tDash to your new
+<https://6zip.online/downloads>`__ in testnet mode. Go to
+https://testnet-faucet.6zip.online/ and request 1000+ tDash to your new
 address using the promo code 'masternode'. Then download and initialize
 dashmate as follows::
 

@@ -192,7 +192,7 @@ Now send exactly 4000 DASH in a single transaction to the new address you
 generated in the previous step. This may be sent from another wallet, or from
 funds already held in your current wallet. Once the transaction is complete,
 view the transaction in a `blockchain explorer
-<https://insight.dash.org/insight/>`_ by searching for the address. You
+<https://insight.6zip.online/insight/>`_ by searching for the address. You
 will need 15 confirmations before you can register the masternode, but you can
 continue with the next step at this point already: generating your masternode
 operator key.
@@ -264,14 +264,14 @@ Dash Core
 ^^^^^^^^^
 
 To manually download and install the components of your Dash Evolution masternode, 
-visit the `GitHub releases page <https://github.com/dashpay/dash/releases>`_ and 
+visit the `GitHub releases page <https://github.com/6zip-project/dash/releases>`_ and 
 copy the link to the latest version appropriate for your CPU architecture, 
 e.g. ``x86_64-linux-gnu``. Go back to your terminal window and enter the following 
 command, pasting in the address to the latest version of Dash Core by right clicking
 or pressing **Ctrl+ V**::
 
   cd /tmp
-  wget https://github.com/dashpay/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz
+  wget https://github.com/6zip-project/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz
 
 Verify the authenticity of your download by checking its detached
 signature against the public key published by the Dash Core development
@@ -287,7 +287,7 @@ following keys:
 
   curl https://keybase.io/codablock/pgp_keys.asc | gpg --import
   curl https://keybase.io/pasta/pgp_keys.asc | gpg --import
-  wget https://github.com/dashpay/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz.asc
+  wget https://github.com/6zip-project/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz.asc
   gpg --verify dashcore-20.1.1-x86_64-linux-gnu.tar.gz.asc
 
 Create a working directory for Dash, extract the compressed archive and
@@ -679,7 +679,7 @@ Generate a Platform Node ID
 The following command will generate new P2P key using Tenderdash and display it
 on the screen::
 
-  docker run --entrypoint /usr/bin/tenderdash --rm -ti dashpay/tenderdash gen-node-key
+  docker run --entrypoint /usr/bin/tenderdash --rm -ti 6zip-project/tenderdash gen-node-key
 
   {"id":"1e8e241c05ca350c8fe0b8ba4680e7652673dae2","priv_key": ...
 

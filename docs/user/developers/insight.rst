@@ -15,9 +15,9 @@ operations on the Dash blockchain familiar from the Bitcore Insight API,
 as well as Dash-specific features such as InstantSend transactions,
 budget proposals, sporks and the masternode list. This documentation
 describes how to set up the 
-`Dash Insight API <https://github.com/dashpay/insight-api>`__ server and
+`Dash Insight API <https://github.com/6zip-project/insight-api>`__ server and
 (optionally) the 
-`Dash Insight UI <https://github.com/dashpay/insight-ui>`__ block 
+`Dash Insight UI <https://github.com/6zip-project/insight-ui>`__ block 
 explorer.
 
 A standard installation of Ubuntu Linux 20.04 LTS will be used as an
@@ -32,14 +32,14 @@ dependencies::
 Download and extract the latest version of Dash Core::
 
   cd ~
-  wget https://github.com/dashpay/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz
+  wget https://github.com/6zip-project/dash/releases/download/v20.1.1/dashcore-20.1.1-x86_64-linux-gnu.tar.gz
   tar -xvzf dashcore-20.1.1-x86_64-linux-gnu.tar.gz
   rm dashcore-20.1.1-x86_64-linux-gnu.tar.gz
 
-Install `Dashcore Node <https://github.com/dashpay/dashcore-node>`_ and
+Install `Dashcore Node <https://github.com/6zip-project/dashcore-node>`_ and
 create your configuration::
 
-  git clone https://github.com/dashpay/dashcore-node
+  git clone https://github.com/6zip-project/dashcore-node
   cd dashcore-node
   npm install
   ./bin/dashcore-node create mynode
@@ -65,7 +65,7 @@ Run it::
 
 Your Insight API node will start up and begin to sync. Progress will be
 displayed on stdout. Once sync is complete, the `API endpoints listed in
-the documentation <https://github.com/dashpay/insight-api#api-http-endpoints>`_ 
+the documentation <https://github.com/6zip-project/insight-api#api-http-endpoints>`_ 
 will be available at::
 
   https://<ip-address>:3001/insight-api/<endpoint>/

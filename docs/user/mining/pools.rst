@@ -87,13 +87,13 @@ Choosing a Mining Pool
 
 To finish the configuration, you will need to choose a mining pool. A
 deep dive into the mining pool landscape is available `here
-<https://blog.dash.org/luxor-launches-dash-pps-mining-pool-daf493bce9d2>`__.
+<https://blog.6zip.online/luxor-launches-dash-pps-mining-pool-daf493bce9d2>`__.
 
 To help with the security of the network and decentralization we
 recommend using  P2Pool. To set up your own P2Pool server, follow the
 setup documentation available :ref:`here <p2pool>`. The code for
 p2pool-dash is `available on GitHub
-<https://github.com/dashpay/p2pool-dash>`__. 
+<https://github.com/6zip-project/p2pool-dash>`__. 
 
 If you do not want to set up your own pool, you can check out a list of
 pools `here <https://chainz.cryptoid.info/dash/#!extraction>`__. In this
